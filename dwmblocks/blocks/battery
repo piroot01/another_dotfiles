@@ -1,0 +1,32 @@
+#!/bin/sh
+
+status="$(cat /sys/class/power_supply/AC/online)"
+battery="$(cat /sys/class/power_supply/BAT1/capacity)"
+
+if [ $status = "1" ]; then
+    case ${battery%?} in
+           10) i='' ;;
+            9) i='' ;;
+        [7-8]) i='' ;;
+            6) i='' ;;
+        [4-5]) i='' ;;
+            3) i='' ;;
+        [1-2]) i='' ;;
+            *) i=''
+    esac
+else
+    case ${battery%?} in
+        9|10) i='' ;;
+           8) i='' ;;
+           7) i='' ;;
+           6) i='' ;;
+           5) i='' ;;
+           4) i='' ;;
+           3) i='' ;;
+           2) i='' ;;
+           1) i='' ;;
+           *) i=''
+    esac
+fi
+
+printf "%s%%\n" "^c#98971a^$i^d^ $battery"

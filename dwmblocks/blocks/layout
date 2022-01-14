@@ -1,0 +1,5 @@
+#!/bin/sh
+
+layout="$(xkblayout-state print '%s')"
+
+printf "%s\n" "^c#458588^ ^d^$layout"
