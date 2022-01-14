@@ -1,0 +1,5 @@
+2022/01/06-21:53:15.961 394e Reusing MANIFEST /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_krunker.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/06-21:53:36.481 2745 Level-0 table #5: started
+2022/01/06-21:53:36.488 2745 Level-0 table #5: 822 bytes OK
+2022/01/06-21:53:36.501 2745 Delete type=0 #3
+2022/01/06-21:53:36.501 2745 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

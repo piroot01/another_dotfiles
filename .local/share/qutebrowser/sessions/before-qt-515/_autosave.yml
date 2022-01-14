@@ -1,0 +1,79 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAD///VQAAAAEf//+qUAAAL////1UAAAABH///qlAAAC//////8AAAAABVb///VQAAAA
+    Ef//+qUAAAL/
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2022-01-02T16:28:37'
+      pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - last_visited: '2022-01-02T16:36:45'
+      pinned: false
+      title: vim health check at DuckDuckGo
+      url: https://duckduckgo.com/?q=vim+health+check&ia=web
+    - last_visited: '2022-01-02T16:38:41'
+      pinned: false
+      title: arch node at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+node&ia=web
+    - last_visited: '2022-01-02T16:38:48'
+      pinned: false
+      title: python pnvim at DuckDuckGo
+      url: https://duckduckgo.com/?q=python+pnvim&ia=software
+    - active: true
+      last_visited: '2022-01-02T16:41:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 154
+      title: nvim clipboard tool at DuckDuckGo
+      url: https://duckduckgo.com/?q=nvim+clipboard+tool&ia=web
+      zoom: 1.0
+    - last_visited: '2022-01-02T16:41:12'
+      original-url: https://duckduckgo.com/?q=nvim+clipboard+tool&ia=web
+      pinned: false
+      title: Neovim don't copy/yang clipboard and primarboard in ›any‹ register -
+        Stack Overflow
+      url: https://stackoverflow.com/questions/54513878/neovim-dont-copy-yang-clipboard-and-primarboard-in-any-register
+  - history:
+    - active: true
+      last_visited: '2022-01-02T16:28:37'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: qutebrowser quickstart | qutebrowser
+      url: https://www.qutebrowser.org/quickstart.html
+      zoom: 1.0
+  - history:
+    - last_visited: '2022-01-02T16:28:39'
+      pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - last_visited: '2022-01-02T16:30:28'
+      pinned: false
+      title: linux fzf at DuckDuckGo
+      url: https://duckduckgo.com/?q=linux+fzf&ia=web
+    - last_visited: '2022-01-02T16:31:04'
+      pinned: false
+      title: arch zsh at DuckDuckGo
+      url: https://duckduckgo.com/?q=arch+zsh&ia=web
+    - last_visited: '2022-01-02T16:31:17'
+      pinned: false
+      title: zsh fast syntax highlighting at DuckDuckGo
+      url: https://duckduckgo.com/?q=zsh+fast+syntax+highlighting&ia=web
+    - last_visited: '2022-01-02T16:31:21'
+      pinned: false
+      title: zsh fast syntax highlighting arch at DuckDuckGo
+      url: https://duckduckgo.com/?q=zsh+fast+syntax+highlighting+arch&ia=web
+    - active: true
+      last_visited: '2022-01-02T16:31:21'
+      original-url: https://duckduckgo.com/?q=zsh+fast+syntax+highlighting+arch&ia=web
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: AUR (en) - zsh-fast-syntax-highlighting
+      url: https://aur.archlinux.org/packages/zsh-fast-syntax-highlighting/
+      zoom: 1.0

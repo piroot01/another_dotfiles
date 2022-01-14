@@ -1,0 +1,5 @@
+q
+set mpris=false
+disable mpris
+colorscheme gruvbox-dark
+a ~/Music

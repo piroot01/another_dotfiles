@@ -1,0 +1,4 @@
+[default-profile]
+alsa_card.pci-0000_00_03.0=output:hdmi-surround-extra2
+alsa_card.pci-0000_00_1b.0=off
+alsa_card.usb-iFi__by_AMR__iFi__by_AMR__HD_USB_Audio_0003-00=output:analog-stereo

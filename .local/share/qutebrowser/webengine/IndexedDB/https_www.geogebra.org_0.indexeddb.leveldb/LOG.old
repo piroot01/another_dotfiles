@@ -1,0 +1,15 @@
+2022/01/11-21:00:27.128 5f36 Reusing MANIFEST /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_www.geogebra.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/11-21:00:27.128 5f36 Recovering log #11
+2022/01/11-21:00:27.129 5f36 Reusing old log /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_www.geogebra.org_0.indexeddb.leveldb/000011.log 
+2022/01/11-22:20:55.641 3697 Level-0 table #16: started
+2022/01/11-22:20:55.652 3697 Level-0 table #16: 1413 bytes OK
+2022/01/11-22:20:55.662 3697 Delete type=0 #11
+2022/01/11-22:20:55.662 3697 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/11-22:20:55.662 3697 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x009\x005\x002\x007\x000\x002\x001\x004\x006\x003\x006\x00:\x00w\x00e\x00b\x00:\x007\x00d\x00a\x00f\x004\x003\x002\x008\x008\x003\x00a\x008\x004\x006\x004\x000\x008\x004\x00f\x00e\x00c\x009' @ 122 : 1
+2022/01/11-22:20:55.662 3697 Compacting 1@1 + 1@2 files
+2022/01/11-22:20:55.669 3697 Generated table #17@1: 20 keys, 1287 bytes
+2022/01/11-22:20:55.669 3697 Compacted 1@1 + 1@2 files => 1287 bytes
+2022/01/11-22:20:55.678 3697 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/11-22:20:55.678 3697 Delete type=2 #13
+2022/01/11-22:20:55.678 3697 Delete type=2 #16
+2022/01/11-22:20:55.678 3697 Manual compaction at level-1 from '\x00\x01\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x009\x005\x002\x007\x000\x002\x001\x004\x006\x003\x006\x00:\x00w\x00e\x00b\x00:\x007\x00d\x00a\x00f\x004\x003\x002\x008\x008\x003\x00a\x008\x004\x006\x004\x000\x008\x004\x00f\x00e\x00c\x009' @ 122 : 1 .. (end); will stop at (end)

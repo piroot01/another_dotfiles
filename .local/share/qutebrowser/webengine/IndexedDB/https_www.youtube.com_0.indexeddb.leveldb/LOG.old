@@ -1,0 +1,21 @@
+2022/01/13-20:52:09.390 2464 Reusing MANIFEST /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/13-20:52:09.390 2464 Recovering log #305
+2022/01/13-20:52:09.390 2464 Reusing old log /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000305.log 
+2022/01/13-23:27:02.466 7b8 Level-0 table #310: started
+2022/01/13-23:27:02.522 7b8 Level-0 table #310: 1274864 bytes OK
+2022/01/13-23:27:02.538 7b8 Delete type=0 #305
+2022/01/13-23:29:26.066 5855 Compacting 1@1 + 1@2 files
+2022/01/13-23:29:26.095 5855 Generated table #311@1: 353 keys, 38781 bytes
+2022/01/13-23:29:26.095 5855 Compacted 1@1 + 1@2 files => 38781 bytes
+2022/01/13-23:29:26.104 5855 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/13-23:29:26.104 5855 Delete type=2 #310
+2022/01/13-23:29:26.104 5855 Delete type=2 #307
+2022/01/14-15:36:38.678 7b8 Level-0 table #313: started
+2022/01/14-15:36:38.724 7b8 Level-0 table #313: 1222208 bytes OK
+2022/01/14-15:36:38.755 7b8 Delete type=0 #309
+2022/01/14-15:36:50.927 7b8 Compacting 1@1 + 1@2 files
+2022/01/14-15:36:50.940 7b8 Generated table #314@1: 340 keys, 34136 bytes
+2022/01/14-15:36:50.940 7b8 Compacted 1@1 + 1@2 files => 34136 bytes
+2022/01/14-15:36:50.949 7b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/14-15:36:50.949 7b8 Delete type=2 #311
+2022/01/14-15:36:50.949 7b8 Delete type=2 #313

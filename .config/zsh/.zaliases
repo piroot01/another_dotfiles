@@ -1,0 +1,29 @@
+#
+# ~/.zaliases
+#
+
+alias v="nvim"
+alias vi="nvim"
+alias vim="nvim"
+alias ll="ls -la --color=auto"
+alias grep="grep --color=auto"
+alias cp="cp -i"
+alias c="clear"
+alias bm="st -c 'floating' -g '77x30+500+500' -e bashmount"
+alias ran="ranger"
+alias r="ranger"
+alias pac="sudo pacman --color=auto"
+alias temp="watch sensors"
+alias e="exit"
+
+# color auto
+
+alias paru="paru --color=auto"
+alias ls="ls --color=auto"
+
+# Additional
+
+alias mount_share="mount /media/share/*"
+alias rem="ranger /media"
+alias share="ranger /media/share"
+alias umount_share="umount /media/share/*"

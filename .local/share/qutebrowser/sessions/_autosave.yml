@@ -1,0 +1,423 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAD///VQAAAAEP//+qUAAAL////1UAAAABD///qlAAAC//////8AAAAABVb///VQAAAA
+    EP//+qUAAAL/
+  tabs:
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Doručená pošta (2 245) - xmacto01@gjk.cz - Gymnázium Jana Keplera Mail
+      url: https://mail.google.com/mail/u/0/#inbox
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Seminář z informatiky 2021/2022
+      url: https://classroom.google.com/c/Mzg1OTA3NzA0NzU2
+      zoom: 0.8
+  - active: true
+    history:
+    - last_visited: '2022-01-14T16:51:14'
+      pinned: false
+      title: dotfiles/.moc at main · piroot01/dotfiles
+      url: https://github.com/piroot01/dotfiles/tree/main/.moc
+    - last_visited: '2022-01-14T16:52:53'
+      pinned: false
+      title: piroot01
+      url: https://github.com/piroot01
+    - last_visited: '2022-01-14T16:52:56'
+      pinned: false
+      title: piroot01/dotfiles
+      url: https://github.com/piroot01/dotfiles
+    - last_visited: '2022-01-14T16:54:52'
+      pinned: false
+      title: piroot01
+      url: https://github.com/piroot01
+    - last_visited: '2022-01-14T16:55:02'
+      pinned: false
+      title: piroot01/dotfiles
+      url: https://github.com/piroot01/dotfiles
+    - last_visited: '2022-01-14T16:55:13'
+      pinned: false
+      title: piroot01
+      url: https://github.com/piroot01
+    - last_visited: '2022-01-14T16:55:13'
+      pinned: false
+      title: Your Repositories
+      url: https://github.com/piroot01?tab=repositories
+    - last_visited: '2022-01-14T16:55:15'
+      pinned: false
+      title: Create a New Repository
+      url: https://github.com/new
+    - last_visited: '2022-01-14T16:55:42'
+      original-url: https://github.com/repositories
+      pinned: false
+      title: piroot01/another_dotfiles
+      url: https://github.com/piroot01/another_dotfiles
+    - last_visited: '2022-01-14T17:00:08'
+      pinned: false
+      title: piroot01
+      url: https://github.com/piroot01
+    - last_visited: '2022-01-14T17:00:10'
+      pinned: false
+      title: Your Profile
+      url: https://github.com/settings/profile
+    - last_visited: '2022-01-14T17:00:16'
+      pinned: false
+      title: GitHub Apps
+      url: https://github.com/settings/apps
+    - last_visited: '2022-01-14T17:00:16'
+      pinned: false
+      title: Personal Access Tokens
+      url: https://github.com/settings/tokens
+    - last_visited: '2022-01-14T17:00:19'
+      original-url: https://github.com/settings/tokens
+      pinned: false
+      title: Confirm access
+      url: https://github.com/settings/tokens/770541072
+    - last_visited: '2022-01-14T17:00:24'
+      pinned: false
+      title: Confirm access
+      url: https://github.com/sessions/sudo
+    - last_visited: '2022-01-14T17:00:33'
+      original-url: https://github.com/sessions/sudo
+      pinned: false
+      title: Edit personal access token
+      url: https://github.com/settings/tokens/770541072
+    - last_visited: '2022-01-14T17:00:40'
+      pinned: false
+      title: Regenerate personal access token
+      url: https://github.com/settings/tokens/770541072/regenerate
+    - last_visited: '2022-01-14T17:00:42'
+      original-url: https://github.com/settings/tokens/770541072/regenerate
+      pinned: false
+      title: Edit personal access token
+      url: https://github.com/settings/tokens/770541072
+    - last_visited: '2022-01-14T17:00:58'
+      pinned: false
+      title: Your Profile
+      url: https://github.com/settings/profile
+    - last_visited: '2022-01-14T17:01:01'
+      pinned: false
+      title: piroot01
+      url: https://github.com/piroot01
+    - active: true
+      last_visited: '2022-01-14T17:01:04'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: piroot01/another_dotfiles
+      url: https://github.com/piroot01/another_dotfiles
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T17:00:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Sudo mode - GitHub Docs
+      url: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/sudo-mode
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T17:00:27'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Sudo mode - GitHub Docs
+      url: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/sudo-mode
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Rezistor SMD R1206 120R 0,25W 1% | GM electronic, spol. s.r.o.
+      url: https://www.gme.cz/r1206-120r-1-yageo
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Dutinková lišta 2x20pin, rozteč 2,54mm, výška 8mm BL220G-V8.0 | GM electronic,
+        spol. s.r.o.
+      url: https://www.gme.cz/dutinkova-lista-bl840gd
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Distanční sloupek, výška 8mm, M2,5 matka/šroub DA5M2,5X08 nikl | GM electronic,
+        spol. s.r.o.
+      url: https://www.gme.cz/distancni-sloupek-da5m2-5x08-nikl-vigan
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: LaTeX Templates - Masters/Doctoral Thesis
+      url: https://www.latextemplates.com/template/masters-doctoral-thesis
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Log in to Overleaf - Overleaf, Online LaTeX Editor
+      url: https://www.overleaf.com/login?redir=/project/61d9acc173b71710afe67d47
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Page Layout - Overleaf, Online LaTeX editor
+      url: https://cs.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_2)%3A_Page_Layout
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Bold, italics and underlining - Overleaf, Online LaTeX Editor
+      url: https://www.overleaf.com/learn/latex/Bold%2C_italics_and_underlining
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:28'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Podrobnosti materiálu
+      url: https://classroom.google.com/c/Mzg1OTA3NzA0NzU2/m/NDIwNjA3NDk0Mjk4/details
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: X220/X230 FHD mod kit (rev.6)
+      url: https://nitrocaster.me/store/x220-x230-fhd-mod-kit.html
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:12'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Unit testing – Wikipedie
+      url: https://cs.wikipedia.org/wiki/Unit_testing
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:12'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Programování řízené testy – Wikipedie
+      url: https://cs.wikipedia.org/wiki/Programov%C3%A1n%C3%AD_%C5%99%C3%ADzen%C3%A9_testy
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:12'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Software requirements - Wikipedia
+      url: https://en.wikipedia.org/wiki/Software_requirements
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Překladač Google
+      url: https://translate.google.com/?sl=en&tl=cs&text=Software%20design%20is%20the%20process%20by%20which%20an%20agent%20creates%20a%20specification%20of%20a%20software%20artifact%20intended%20to%20accomplish%20goals%2C%20using%20a%20set%20of%20primitive%20components%20and%20subject%20to%20constraints.%5B1%5D%20Software%20design%20may%20refer%20to%20either%20%22all%20the%20activity%20involved%20in%20conceptualizing%2C%20framing%2C%20implementing%2C%20commissioning%2C%20and%20ultimately%20modifying%20complex%20systems%22%20or%20%22the%20activity%20following%20requirements%20specification%20and%20before%20programming%2C%20as%20...%20%5Bin%5D%20a%20stylized%20software%20engineering%20process.%22%5B2%5D%0A%0ASoftware%20design%20usually%20involves%20problem-solving%20and%20planning%20a%20software%20solution.%20This%20includes%20both%20a%20low-level%20component%20and%20algorithm%20design%20and%20a%20high-level%2C%20architecture%20design.H&op=translate
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: ROZDíL MEZI FUNKČNíMI A NEFUNKČNíMI POŽADAVKY | POROVNEJTE ROZDíL MEZI
+        PODOBNýMI PODMíNKAMI - TECHNOLOGIE - 2022
+      url: https://cs.strephonsays.com/functional-and-non-functional-requirements-3325
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Vodopád Model Různé fáze s výhodami a nevýhodami
+      url: https://cs.education-wiki.com/4611920-waterfallmodel
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:35'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Alza.cz
+      url: https://www.alza.cz/muj-ucet/objednavka-454129546.htm?index=454129546
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Samsung 870 EVO, 2,5" - 250GB MZ-77E250B/EU | CZC.cz
+      url: https://www.czc.cz/samsung-870-evo-2-5-250gb/309000/produkt
+      zoom: 0.8
+  - history:
+    - last_visited: '2022-01-14T16:51:18'
+      pinned: false
+      title: DRAM or DRAM-less SSD? What's the Difference? - Make Tech Easier
+      url: https://www.maketecheasier.com/dram-or-dram-less-ssd/
+    - active: true
+      last_visited: '2022-01-14T16:51:29'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: DRAM or DRAM-less SSD? What's the Difference? - Make Tech Easier
+      url: https://www.maketecheasier.com/dram-or-dram-less-ssd/
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How to disassembly and reassemble Lenovo ThinkPad x230 - YouTube
+      url: https://www.youtube.com/watch?v=b-qJgn5BakY
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Installation instruction discrepancy, which antenna wire color goes on
+        which wireless card connector? - Intel Communities
+      url: https://community.intel.com/t5/Intel-NUCs/Installation-instruction-discrepancy-which-antenna-wire-color/m-p/576199
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Wiki | Main / Installation
+      url: https://wiki.artixlinux.org/Main/Installation
+      zoom: 0.8
+  - history: []
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:12'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How to Create Bootable USB for Arch Linux? - GeeksforGeeks
+      url: https://www.geeksforgeeks.org/how-to-create-bootable-usb-for-arch-linux/
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: '"Víme, kam to spěje." Nové záběry robota Boston Dynamics rozvířily obavy
+        - Aktuálně.cz'
+      url: https://zpravy.aktualne.cz/zahranici/vime-kam-to-speje-nove-video-robota-boston-dynamics-rozviril/r~e52dd20a00db11ec8fa20cc47ab5f122/
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:23'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: Překladač Google
+      url: https://translate.google.com/?sl=cs&tl=de&text=Dobr%C3%BD%20den%2C%20p%C5%99ipravil%20jsem%20si%20pro%20v%C3%A1s%20jednu%20novinku%20z%20oboru%20robotiky.%20Spole%C4%8Dnost%20Boston%20Dynamics%2C%20kter%C3%A1%20vyv%C3%ADj%C3%AD%20roboty%20s%20um%C4%9Blou%20inteligenc%C3%AD%2C%20p%C5%99edstavila%20nov%C3%BD%20model%20robotick%C3%A9ho%20humanoida.%20Tento%20robot%20je%20schopen%20b%C4%9Bhat%2C%20vyh%C3%BDbat%20se%20nejr%C5%AFzn%C4%9Bj%C5%A1%C3%ADm%20p%C5%99ek%C3%A1%C5%BEk%C3%A1m%20a%20dokonco%20dok%C3%A1%C5%BEe%20bakflip.%20Tento%20druh%20robot%C5%AF%20se%20uplatn%C3%AD%20zejm%C3%A9na%20v%20zachrann%C3%BDch%20situac%C3%ADch.%0A%0AD%C4%9Bkuji%20za%20pozornost.&op=translate
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:13'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: How To Fix Replace Lenovo Thinkpad Keyboard Key - Enter, Space, Shift,
+        Backspace, Tab Sized Keys - YouTube
+      url: https://www.youtube.com/watch?v=fUpevQeo19c
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:18'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: TS80P Smart Soldering Iron (More , US Plug) - Guangzhou e-Design Intelligent
+        Technology Co., Ltd
+      url: http://www.miniware.com.cn/product/ts80p-soldering-iron-more/
+      zoom: 0.8
+  - history:
+    - active: true
+      last_visited: '2022-01-14T16:51:22'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 0
+      title: artix at DuckDuckGo
+      url: https://duckduckgo.com/?q=artix&ia=web
+      zoom: 0.8

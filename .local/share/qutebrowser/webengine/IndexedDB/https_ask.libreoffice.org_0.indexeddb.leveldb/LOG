@@ -1,0 +1,5 @@
+2022/01/09-12:58:48.795 342 Reusing MANIFEST /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_ask.libreoffice.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/09-12:59:30.208 342 Level-0 table #5: started
+2022/01/09-12:59:30.215 342 Level-0 table #5: 49340 bytes OK
+2022/01/09-12:59:30.224 342 Delete type=0 #3
+2022/01/09-12:59:30.224 342 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

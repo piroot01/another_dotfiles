@@ -1,0 +1,856 @@
+[2022.01.07 14:05:56] Launched version: 3004003, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2022.01.07 14:05:56] Executable dir: /usr/bin/, name: telegram-desktop
+[2022.01.07 14:05:56] Initial working dir: /home/tomas/
+[2022.01.07 14:05:56] Working dir: /home/tomas/.local/share/TelegramDesktop/
+[2022.01.07 14:05:56] Command line: telegram-desktop
+[2022.01.07 14:05:56] Executable path before check: /usr/bin/telegram-desktop
+[2022.01.07 14:05:56] Logs started
+[2022.01.07 14:05:56] Launcher filename: telegramdesktop.desktop
+[2022.01.07 14:05:56] Getting DE, XDG_CURRENT_DESKTOP: ''
+[2022.01.07 14:05:56] Getting DE, DESKTOP_SESSION: ''
+[2022.01.07 14:05:56] Getting DE, KDE_SESSION_VERSION: ''
+[2022.01.07 14:05:56] Getting DE, GNOME_DESKTOP_SESSION_ID: ''
+[2022.01.07 14:05:56] Getting DE, KDE_FULL_SESSION: ''
+[2022.01.07 14:05:56] DE: Other
+[2022.01.07 14:05:56] Connecting local socket to /run/user/1000/9376ede5892d91b8bff3343b4e35873a-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2022.01.07 14:05:56] This is the only instance of Telegram, starting server and app...
+[2022.01.07 14:05:56] Moved logging from '/home/tomas/.local/share/TelegramDesktop/log_start0.txt' to '/home/tomas/.local/share/TelegramDesktop/log.txt'!
+[2022.01.07 14:05:56] Primary screen DPI: 72
+[2022.01.07 14:05:56] Icon theme: hicolor
+[2022.01.07 14:05:56] Fallback icon theme: hicolor
+[2022.01.07 14:05:56] App Info: reading settings...
+[2022.01.07 14:05:56] App Info: reading encrypted settings...
+[2022.01.07 14:05:56] Lang Info: Loaded cached, keys: 3568
+[2022.01.07 14:05:56] OpenAL Logging Level: (not set)
+[2022.01.07 14:05:56] Audio Playback Devices: iFi (by AMR) HD USB Audio Digital Stereo (IEC958);Built-in Audio Digital Stereo (HDMI);Built-in Audio Analog Surround 4.0
+[2022.01.07 14:05:56] Audio Playback Default Device: iFi (by AMR) HD USB Audio Digital Stereo (IEC958)
+[2022.01.07 14:05:56] Audio Capture Devices: Monitor of iFi (by AMR) HD USB Audio Digital Stereo (IEC958);Monitor of Built-in Audio Digital Stereo (HDMI);Monitor of Built-in Audio Analog Surround 4.0
+[2022.01.07 14:05:56] Audio Capture Default Device: Monitor of iFi (by AMR) HD USB Audio Digital Stereo (IEC958)
+[2022.01.07 14:05:56] Not using D-Bus global menu.
+[2022.01.07 14:05:56] Not using Unity launcher counter.
+[2022.01.07 14:05:56] System tray available: [FALSE]
+[2022.01.07 14:05:56] App Info: reading accounts info...
+[2022.01.07 14:05:56] App Info: reading encrypted info...
+[2022.01.07 14:05:56] App Info: reading map...
+[2022.01.07 14:05:56] App Info: reading encrypted map...
+[2022.01.07 14:05:56] App Info: reading encrypted user settings...
+[2022.01.07 14:05:56] App Info: encrypted user settings read.
+[2022.01.07 14:05:56] App Info: reading encrypted mtp data...
+[2022.01.07 14:05:56] MTP Info: read keys, current: 4, to destroy: 0
+[2022.01.07 14:05:56] Map read time: 2
+[2022.01.07 14:05:56] App Info: reading encrypted mtp config...
+[2022.01.07 14:05:56] Export Info: Destroy top bar by controller removal.
+[2022.01.07 14:05:56] OpenGL Profile: Compatibility.
+[2022.01.07 14:05:56] OpenGL Renderer: Mesa Intel(R) HD Graphics 5500 (BDW GT2)
+[2022.01.07 14:05:56] OpenGL Vendor: Intel
+[2022.01.07 14:05:56] OpenGL Version: 4.6 (Compatibility Profile) Mesa 21.3.3
+[2022.01.07 14:05:56] OpenGL Extensions: GL_EXT_memory_object_fd, GL_EXT_shadow_funcs, GL_AMD_conservative_depth, GL_ARB_enhanced_layouts, GL_ARB_base_instance, GL_EXT_packed_depth_stencil, GL_NV_conditional_render, GL_EXT_texture_edge_clamp, GL_3DFX_texture_compression_FXT1, GL_ARB_pixel_buffer_object, GL_ARB_tessellation_shader, GL_KHR_texture_compression_astc_sliced_3d, GL_ARB_draw_instanced, GL_IBM_texture_mirrored_repeat, GL_ARB_fragment_coord_conventions, GL_ARB_texture_mirrored_repeat, GL_AMD_vertex_shader_layer, GL_ARB_timer_query, GL_AMD_multi_draw_indirect, GL_ARB_sampler_objects, GL_EXT_shader_samples_identical, GL_AMD_vertex_shader_viewport_index, GL_ARB_texture_compression_rgtc, GL_ARB_occlusion_query, GL_EXT_framebuffer_object, GL_ARB_transform_feedback_overflow_query, GL_ARB_texture_query_levels, GL_ARB_shader_group_vote, GL_ARB_sync, GL_ATI_separate_stencil, GL_ARB_shading_language_include, GL_ARB_window_pos, GL_EXT_texture, GL_NV_half_float, GL_ARB_shader_viewport_layer_array, GL_ARB_map_buffer_range, GL_ARB_texture_cube_map, GL_ARB_transform_feedback2, GL_ARB_ES3_compatibility, GL_SGIS_texture_lod, GL_ARB_transpose_matrix, GL_EXT_texture_env_combine, GL_APPLE_packed_pixels, GL_EXT_texture_sRGB_R8, GL_EXT_texture_env_add, GL_EXT_shader_integer_mix, GL_AMD_query_buffer_object, GL_EXT_rescale_normal, GL_EXT_secondary_color, GL_MESA_framebuffer_flip_y, GL_EXT_vertex_array_bgra, GL_EXT_texture_sRGB_decode, GL_ARB_texture_storage_multisample, GL_ARB_stencil_texturing, GL_EXT_texture_cube_map, GL_S3_s3tc, GL_EXT_provoking_vertex, GL_NV_light_max_exponent, GL_ARB_copy_buffer, GL_ARB_gpu_shader5, GL_EXT_timer_query, GL_ARB_ES3_2_compatibility, GL_EXT_texture_lod_bias, GL_EXT_demote_to_helper_invocation, GL_EXT_EGL_image_storage, GL_AMD_pinned_memory, GL_EXT_texture_rectangle, GL_ARB_polygon_offset_clamp, GL_ARB_point_parameters, GL_ARB_compatibility, GL_ARB_framebuffer_object, GL_ARB_texture_filter_anisotropic, GL_INTEL_shader_integer_functions2, GL_ARB_derivative_control, GL_ARB_ES3_1_compatibility, GL_ARB_shader_bit_encoding, GL_ARB_fragment_program_shadow, GL_EXT_texture_sRGB, GL_AMD_texture_texture4, GL_EXT_stencil_wrap, GL_ARB_point_sprite, GL_ARB_parallel_shader_compile, GL_ARB_shader_precision, GL_EXT_texture_shared_exponent, GL_ARB_get_texture_sub_image, GL_EXT_blend_color, GL_ARB_texture_rg, GL_MESA_texture_signed_rgba, GL_EXT_polygon_offset_clamp, GL_ARB_shading_language_420pack, GL_ARB_map_buffer_alignment, GL_EXT_texture_object, GL_NV_copy_depth_to_color, GL_AMD_draw_buffers_blend, GL_ARB_shader_atomic_counter_ops, GL_EXT_pixel_buffer_object, GL_ARB_texture_multisample, GL_KHR_debug, GL_EXT_blend_equation_separate, GL_ARB_multitexture, GL_ARB_conservative_depth, GL_ARB_gpu_shader_fp64, GL_ARB_robustness, GL_ARB_compute_shader, GL_ARB_half_float_pixel, GL_EXT_transform_feedback, GL_KHR_context_flush_control, GL_ARB_draw_indirect, GL_ARB_texture_env_crossbar, GL_ARB_vertex_type_2_10_10_10_rev, GL_ARB_program_interface_query, GL_ARB_provoking_vertex, GL_ARB_vertex_program, GL_ARB_fragment_layer_viewport, GL_KHR_parallel_shader_compile, GL_ATI_draw_buffers, GL_ARB_vertex_type_10f_11f_11f_rev, GL_ARB_half_float_vertex, GL_ARB_texture_env_add, GL_KHR_blend_equation_advanced, GL_NV_depth_clamp, GL_OES_read_format, GL_EXT_memory_object, GL_NV_primitive_restart, GL_ARB_color_buffer_float, GL_ARB_indirect_parameters, GL_IBM_multimode_draw_arrays, GL_ARB_texture_stencil8, GL_ATI_texture_float, GL_ARB_query_buffer_object, GL_MESA_window_pos, GL_ARB_framebuffer_sRGB, GL_SGIS_texture_edge_clamp, GL_EXT_texture_filter_anisotropic, GL_ARB_copy_image, GL_ARB_multi_bind, GL_EXT_gpu_program_parameters, GL_EXT_point_parameters, GL_NV_fog_distance, GL_SUN_multi_draw_arrays, GL_ARB_internalformat_query, GL_EXT_texture_array, GL_ATI_texture_env_combine3, GL_ARB_draw_elements_base_vertex, GL_EXT_abgr, GL_ARB_shader_image_load_store, GL_ARB_texture_swizzle, GL_IBM_rasterpos_clip, GL_ARB_texture_compression_bptc, GL_EXT_framebuffer_multisample_blit_scaled, GL_ARB_seamless_cubemap_per_texture, GL_ARB_shader_storage_buffer_object, GL_ARB_vertex_array_object, GL_ARB_texture_rectangle, GL_ARB_instanced_arrays, GL_ARB_shader_subroutine, GL_EXT_semaphore_fd, GL_ARB_framebuffer_no_attachments, GL_EXT_texture_compression_dxt1, GL_ARB_draw_buffers, GL_EXT_compiled_vertex_array, GL_EXT_texture_compression_rgtc, GL_EXT_blend_subtract, GL_EXT_texture_buffer_object, GL_EXT_direct_state_access, GL_ARB_texture_env_dot3, GL_KHR_texture_compression_astc_ldr, GL_EXT_draw_buffers2, GL_EXT_framebuffer_blit, GL_ARB_ES2_compatibility, GL_ARB_multi_draw_indirect, GL_EXT_framebuffer_multisample, GL_ARB_vertex_attrib_64bit, GL_NV_compute_shader_derivatives, GL_ATI_blend_equation_separate, GL_ARB_explicit_attrib_location, GL_ARB_transform_feedback_instanced, GL_EXT_copy_texture, GL_EXT_bgra, GL_ARB_texture_barrier, GL_ARB_shader_draw_parameters, GL_ARB_draw_buffers_blend, GL_OES_EGL_image, GL_ARB_cull_distance, GL_ARB_blend_func_extended, GL_ARB_buffer_storage, GL_EXT_vertex_array, GL_EXT_texture_snorm, GL_ARB_texture_float, GL_ARB_multisample, GL_ARB_texture_mirror_clamp_to_edge, GL_EXT_semaphore, GL_ARB_invalidate_subdata, GL_ARB_conditional_render_inverted, GL_NV_texture_rectangle, GL_ARB_texture_rgb10_a2ui, GL_ARB_vertex_attrib_binding, GL_ARB_texture_buffer_object_rgb32, GL_KHR_robustness, GL_EXT_EGL_sync, GL_ARB_texture_buffer_range, GL_ARB_transform_feedback3, GL_NV_texgen_reflection, GL_ARB_shadow, GL_EXT_texture_env_dot3, GL_AMD_performance_monitor, GL_ARB_vertex_array_bgra, GL_AMD_shader_trinary_minmax, GL_EXT_texture3D, GL_INTEL_blackhole_render, GL_ARB_clear_texture, GL_EXT_stencil_two_side, GL_EXT_draw_range_elements, GL_ANGLE_texture_compression_dxt3, GL_EXT_separate_specular_color, GL_ARB_texture_border_clamp, GL_ARB_separate_shader_objects, GL_ARB_shader_image_size, GL_ARB_shader_atomic_counters, GL_ARB_texture_compression, GL_ARB_texture_view, GL_ARB_texture_non_power_of_two, GL_ARB_robust_buffer_access_behavior, GL_ARB_debug_output, GL_ARB_shader_ballot, GL_ARB_depth_texture, GL_ARB_clip_control, GL_KHR_no_error, GL_ARB_shader_objects, GL_EXT_fog_coord, GL_ARB_clear_buffer_object, GL_EXT_texture_compression_s3tc, GL_ARB_uniform_buffer_object, GL_EXT_texture_integer, GL_KHR_robust_buffer_access_behavior, GL_EXT_subtexture, GL_ARB_shader_clock, GL_ARB_vertex_shader, GL_SGIS_texture_border_clamp, GL_ARB_compute_variable_group_size, GL_ARB_texture_gather, GL_EXT_gpu_shader4, GL_ARB_seamless_cube_map, GL_EXT_packed_float, GL_EXT_shader_framebuffer_fetch_non_coherent, GL_ARB_shading_language_packing, GL_ARB_viewport_array, GL_SGIS_generate_mipmap, GL_NV_copy_image, GL_ARB_fragment_shader, GL_EXT_texture_swizzle, GL_ARB_occlusion_query2, GL_ARB_depth_buffer_float, GL_ARB_sample_shading, GL_ARB_vertex_buffer_object, GL_NV_packed_depth_stencil, GL_ARB_fragment_program, GL_EXT_framebuffer_sRGB, GL_EXT_blend_func_separate, GL_ARB_texture_storage, GL_ARB_gpu_shader_int64, GL_ARB_shader_texture_lod, GL_ARB_texture_cube_map_array, GL_MESA_pack_invert, GL_ARB_compressed_texture_pixel_storage, GL_EXT_draw_instanced, GL_EXT_multi_draw_arrays, GL_INGR_blend_func_separate, GL_ARB_depth_clamp, GL_ARB_shading_language_100, GL_ARB_texture_buffer_object, GL_ARB_gl_spirv, GL_ARB_texture_query_lod, GL_ARB_spirv_extensions, GL_NV_texture_barrier, GL_ARB_texture_env_combine, GL_NV_texture_env_combine4, GL_ARB_shader_texture_image_samples, GL_ARB_arrays_of_arrays, GL_ARB_pipeline_statistics_query, GL_NV_blend_square, GL_ARB_direct_state_access, GL_ARB_get_program_binary, GL_EXT_texture_shadow_lod, GL_EXT_blend_minmax, GL_ARB_explicit_uniform_location, GL_MESA_shader_integer_functions, GL_EXT_packed_pixels, GL_ARB_internalformat_query2, GL_ANGLE_texture_compression_dxt5, GL_ATI_fragment_shader, GL_AMD_seamless_cubemap_per_texture, GL_EXT_vertex_attrib_64bit, GL_INTEL_performance_query
+[2022.01.07 14:05:56] OpenGL: QOpenGLContext created, version: 4.4.
+[2022.01.07 14:05:57] OpenGL: [TRUE] (OverlayWidget)
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449915548771596, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449915650527684, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449915904246640, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449916028579052, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449916134655568, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449916235187408, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449916330201824, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449916430438920, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449916533689804, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449916632315984, seq_no = 78
+[2022.01.07 16:52:51] Message Info: bad message notification received (error_code 16) for msg_id = 7050449916731148696, seq_no = 78
+[2022.01.07 16:52:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 16:52:53] Audio Info: Closing audio playback device.
+[2022.01.07 16:53:34] Could not send ping for some seconds, restarting...
+[2022.01.07 17:20:42] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:20:44] Audio Info: Closing audio playback device.
+[2022.01.07 17:20:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:20:47] Audio Info: Closing audio playback device.
+[2022.01.07 17:21:36] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:21:38] Audio Info: Closing audio playback device.
+[2022.01.07 17:24:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:24:27] Audio Info: Closing audio playback device.
+[2022.01.07 17:25:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:25:20] Audio Info: Closing audio playback device.
+[2022.01.07 17:25:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:25:40] Audio Info: Closing audio playback device.
+[2022.01.07 17:25:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:25:47] Audio Info: Closing audio playback device.
+[2022.01.07 17:26:22] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:26:24] Audio Info: Closing audio playback device.
+[2022.01.07 17:26:47] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:26:49] Audio Info: Closing audio playback device.
+[2022.01.07 17:27:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:27:14] Audio Info: Closing audio playback device.
+[2022.01.07 17:28:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:28:55] Audio Info: Closing audio playback device.
+[2022.01.07 17:30:28] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:30:30] Audio Info: Closing audio playback device.
+[2022.01.07 17:30:57] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:30:59] Audio Info: Closing audio playback device.
+[2022.01.07 17:31:32] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:31:34] Audio Info: Closing audio playback device.
+[2022.01.07 17:31:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:31:43] Audio Info: Closing audio playback device.
+[2022.01.07 17:31:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:31:56] Audio Info: Closing audio playback device.
+[2022.01.07 17:32:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:32:19] Audio Info: Closing audio playback device.
+[2022.01.07 17:32:39] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:32:41] Audio Info: Closing audio playback device.
+[2022.01.07 17:32:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:32:50] Audio Info: Closing audio playback device.
+[2022.01.07 17:32:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:33:00] Audio Info: Closing audio playback device.
+[2022.01.07 17:33:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:33:09] Audio Info: Closing audio playback device.
+[2022.01.07 17:33:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:33:17] Audio Info: Closing audio playback device.
+[2022.01.07 17:33:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:33:56] Audio Info: Closing audio playback device.
+[2022.01.07 17:35:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:35:17] Audio Info: Closing audio playback device.
+[2022.01.07 17:35:26] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:35:28] Audio Info: Closing audio playback device.
+[2022.01.07 17:38:31] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:38:33] Audio Info: Closing audio playback device.
+[2022.01.07 17:38:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:38:50] Audio Info: Closing audio playback device.
+[2022.01.07 17:42:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:42:14] Audio Info: Closing audio playback device.
+[2022.01.07 17:42:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:42:55] Audio Info: Closing audio playback device.
+[2022.01.07 17:47:00] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:47:02] Audio Info: Closing audio playback device.
+[2022.01.07 17:57:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 17:57:17] Audio Info: Closing audio playback device.
+[2022.01.07 20:22:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 20:22:55] Audio Info: Closing audio playback device.
+[2022.01.07 20:31:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 20:31:07] Audio Info: Closing audio playback device.
+[2022.01.07 20:54:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 20:54:19] Audio Info: Closing audio playback device.
+[2022.01.07 20:55:10] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 20:55:12] Audio Info: Closing audio playback device.
+[2022.01.07 20:55:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.07 20:55:20] Audio Info: Closing audio playback device.
+[2022.01.07 23:28:30] Message Info: bad message notification received (error_code 16) for msg_id = 7050589753976766536, seq_no = 1482
+[2022.01.07 23:29:15] Could not send ping for some seconds, restarting...
+[2022.01.08 11:00:23] Could not send ping for some seconds, restarting...
+[2022.01.08 12:29:28] Message Info: bad message notification received (error_code 16) for msg_id = 7050785490323333908, seq_no = 1876
+[2022.01.08 12:30:13] Could not send ping for some seconds, restarting...
+[2022.01.08 16:21:47] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2022.01.08 16:21:47] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2022.01.08 16:21:48] Message Info: bad message notification received (error_code 16) for msg_id = 7050798006085742972, seq_no = 4
+[2022.01.08 16:22:33] Could not send ping for some seconds, restarting...
+[2022.01.08 16:43:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:43:54] Audio Info: Closing audio playback device.
+[2022.01.08 16:44:06] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:44:08] Audio Info: Closing audio playback device.
+[2022.01.08 16:44:11] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:44:13] Audio Info: Closing audio playback device.
+[2022.01.08 16:44:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:44:19] Audio Info: Closing audio playback device.
+[2022.01.08 16:44:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:44:29] Audio Info: Closing audio playback device.
+[2022.01.08 16:44:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:44:48] Audio Info: Closing audio playback device.
+[2022.01.08 16:45:11] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:45:13] Audio Info: Closing audio playback device.
+[2022.01.08 16:45:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:45:32] Audio Info: Closing audio playback device.
+[2022.01.08 16:46:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 16:46:17] Audio Info: Closing audio playback device.
+[2022.01.08 17:08:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:08:11] Audio Info: Closing audio playback device.
+[2022.01.08 17:09:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:09:48] Audio Info: Closing audio playback device.
+[2022.01.08 17:12:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:12:50] Audio Info: Closing audio playback device.
+[2022.01.08 17:13:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:13:11] Audio Info: Closing audio playback device.
+[2022.01.08 17:13:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:13:17] Audio Info: Closing audio playback device.
+[2022.01.08 17:28:59] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:29:01] Audio Info: Closing audio playback device.
+[2022.01.08 17:29:03] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:29:05] Audio Info: Closing audio playback device.
+[2022.01.08 17:29:44] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:29:46] Audio Info: Closing audio playback device.
+[2022.01.08 17:31:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:31:16] Audio Info: Closing audio playback device.
+[2022.01.08 17:31:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:31:54] Audio Info: Closing audio playback device.
+[2022.01.08 17:32:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:32:17] Audio Info: Closing audio playback device.
+[2022.01.08 17:32:35] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:32:37] Audio Info: Closing audio playback device.
+[2022.01.08 17:32:50] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:32:51] Audio Info: Closing audio playback device.
+[2022.01.08 17:33:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:33:03] Audio Info: Closing audio playback device.
+[2022.01.08 17:33:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:33:43] Audio Info: Closing audio playback device.
+[2022.01.08 17:34:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:34:04] Audio Info: Closing audio playback device.
+[2022.01.08 17:34:39] Message Info: bad message notification received (error_code 33) for msg_id = 7050874629455793372, seq_no = 434
+[2022.01.08 17:34:39] Message Info: bad message notification received, msgId 7050874629455793372, error_code 33
+[2022.01.08 17:35:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:35:47] Audio Info: Closing audio playback device.
+[2022.01.08 17:37:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:37:43] Audio Info: Closing audio playback device.
+[2022.01.08 17:39:26] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 17:39:28] Audio Info: Closing audio playback device.
+[2022.01.08 18:12:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 18:12:48] Audio Info: Closing audio playback device.
+[2022.01.08 18:14:13] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 18:14:14] Audio Info: Closing audio playback device.
+[2022.01.08 18:15:47] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 18:15:48] Audio Info: Closing audio playback device.
+[2022.01.08 18:15:50] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 18:15:52] Audio Info: Closing audio playback device.
+[2022.01.08 18:47:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 18:47:55] Audio Info: Closing audio playback device.
+[2022.01.08 18:47:55] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 18:47:57] Audio Info: Closing audio playback device.
+[2022.01.08 22:55:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.08 22:55:09] Audio Info: Closing audio playback device.
+[2022.01.08 22:55:52] Could not send ping for some seconds, restarting...
+[2022.01.09 09:10:08] Could not send ping for some seconds, restarting...
+[2022.01.09 11:27:18] Message Info: bad message notification received (error_code 16) for msg_id = 7051128531618708236, seq_no = 970
+[2022.01.09 11:27:30] Could not send ping for some seconds, restarting...
+[2022.01.09 11:30:24] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 11:30:26] Audio Info: Closing audio playback device.
+[2022.01.09 11:32:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 11:32:50] Audio Info: Closing audio playback device.
+[2022.01.09 11:33:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 11:33:04] Audio Info: Closing audio playback device.
+[2022.01.09 11:34:28] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 11:34:30] Audio Info: Closing audio playback device.
+[2022.01.09 11:35:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 11:35:20] Audio Info: Closing audio playback device.
+[2022.01.09 11:35:55] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 11:35:57] Audio Info: Closing audio playback device.
+[2022.01.09 11:36:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 11:36:07] Audio Info: Closing audio playback device.
+[2022.01.09 11:36:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 11:36:43] Audio Info: Closing audio playback device.
+[2022.01.09 12:08:00] RPC Error: request 550 got fail with code 400, error PEER_ID_INVALID
+[2022.01.09 13:41:14] Message Info: bad message notification received (error_code 16) for msg_id = 7051182829214112008, seq_no = 1613
+[2022.01.09 17:39:46] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2022.01.09 17:39:46] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2022.01.09 17:39:47] Message Info: bad message notification received (error_code 16) for msg_id = 7051186206951560440, seq_no = 4
+[2022.01.09 17:40:32] Could not send ping for some seconds, restarting...
+[2022.01.09 17:40:32] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 17:40:34] Audio Info: Closing audio playback device.
+[2022.01.09 17:41:24] TCP Error: error packet received, endpoint: '149.154.165.111:443', protocolDcId: -4, code = -404
+[2022.01.09 17:41:24] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2022.01.09 17:50:04] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 17:50:05] Audio Info: Closing audio playback device.
+[2022.01.09 18:09:57] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 18:09:59] Audio Info: Closing audio playback device.
+[2022.01.09 18:39:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 18:39:03] Audio Info: Closing audio playback device.
+[2022.01.09 18:41:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 18:41:19] Audio Info: Closing audio playback device.
+[2022.01.09 18:44:34] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 18:44:36] Audio Info: Closing audio playback device.
+[2022.01.09 18:45:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 18:45:56] Audio Info: Closing audio playback device.
+[2022.01.09 18:58:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 18:58:11] Audio Info: Closing audio playback device.
+[2022.01.09 18:58:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 18:58:19] Audio Info: Closing audio playback device.
+[2022.01.09 18:58:21] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 18:58:23] Audio Info: Closing audio playback device.
+[2022.01.09 20:03:35] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 20:03:37] Audio Info: Closing audio playback device.
+[2022.01.09 20:03:57] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 20:03:59] Audio Info: Closing audio playback device.
+[2022.01.09 20:21:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 20:21:27] Audio Info: Closing audio playback device.
+[2022.01.09 20:47:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 20:47:19] Audio Info: Closing audio playback device.
+[2022.01.09 22:18:35] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 22:18:37] Audio Info: Closing audio playback device.
+[2022.01.09 22:19:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 22:19:54] Audio Info: Closing audio playback device.
+[2022.01.09 22:20:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 22:20:32] Audio Info: Closing audio playback device.
+[2022.01.09 22:26:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 22:27:00] Audio Info: Closing audio playback device.
+[2022.01.09 22:27:11] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 22:27:13] Audio Info: Closing audio playback device.
+[2022.01.09 22:55:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 22:55:27] Audio Info: Closing audio playback device.
+[2022.01.09 22:55:55] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 22:55:57] Audio Info: Closing audio playback device.
+[2022.01.09 23:33:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 23:33:09] Audio Info: Closing audio playback device.
+[2022.01.09 23:57:36] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 23:57:38] Audio Info: Closing audio playback device.
+[2022.01.09 23:59:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.09 23:59:18] Audio Info: Closing audio playback device.
+[2022.01.10 18:35:28] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2022.01.10 18:35:28] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2022.01.10 18:35:28] Config Error: No 'Date' header received.
+[2022.01.10 18:35:28] Message Info: bad message notification received (error_code 16) for msg_id = 7051523935998073640, seq_no = 4
+[2022.01.10 18:36:14] Could not send ping for some seconds, restarting...
+[2022.01.10 18:36:14] Message Info: bad message notification received (error_code 33) for msg_id = 7051632677225941500, seq_no = 32
+[2022.01.10 18:36:14] Message Info: bad message notification received, msgId 7051632677225941500, error_code 33
+[2022.01.10 18:36:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 18:36:16] Audio Info: Closing audio playback device.
+[2022.01.10 19:32:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 19:32:46] TCP Error: error packet received, endpoint: '149.154.165.111:443', protocolDcId: -4, code = -404
+[2022.01.10 19:32:46] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2022.01.10 19:32:48] Audio Info: Closing audio playback device.
+[2022.01.10 19:33:05] RPC Error: request 2867 got fail with code 400, error PEER_ID_INVALID
+[2022.01.10 19:38:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 19:38:11] Audio Info: Closing audio playback device.
+[2022.01.10 19:38:20] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 19:38:22] Audio Info: Closing audio playback device.
+[2022.01.10 21:13:24] RPC Error: request 3110 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.01.10 21:13:24] RPC Error: request 3109 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.01.10 21:13:24] TCP Error: error packet received, endpoint: '149.154.167.151:443', protocolDcId: -2, code = -404
+[2022.01.10 21:13:24] MTP Info: -404 error received in 160002 with temporary key, assuming it was destroyed.
+[2022.01.10 21:21:24] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:21:26] Audio Info: Closing audio playback device.
+[2022.01.10 21:21:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:21:58] Audio Info: Closing audio playback device.
+[2022.01.10 21:22:06] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:22:08] Audio Info: Closing audio playback device.
+[2022.01.10 21:22:20] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:22:22] Audio Info: Closing audio playback device.
+[2022.01.10 21:23:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:23:53] Audio Info: Closing audio playback device.
+[2022.01.10 21:23:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:23:55] Audio Info: Closing audio playback device.
+[2022.01.10 21:24:22] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:24:24] Audio Info: Closing audio playback device.
+[2022.01.10 21:24:35] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:24:37] Audio Info: Closing audio playback device.
+[2022.01.10 21:39:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.10 21:39:11] Audio Info: Closing audio playback device.
+[2022.01.11 08:13:26] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.11 08:13:28] Audio Info: Closing audio playback device.
+[2022.01.11 08:14:10] Could not send ping for some seconds, restarting...
+[2022.01.11 16:49:24] Message Info: bad message notification received (error_code 16) for msg_id = 7051847495367871232, seq_no = 1444
+[2022.01.11 16:49:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.11 16:49:27] Audio Info: Closing audio playback device.
+[2022.01.11 16:50:08] Could not send ping for some seconds, restarting...
+[2022.01.11 17:15:11] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.11 17:15:12] Audio Info: Closing audio playback device.
+[2022.01.11 17:24:34] RPC Error: request 3205 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.01.11 17:24:37] RPC Error: request 3208 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.01.11 18:04:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.11 18:04:20] Audio Info: Closing audio playback device.
+[2022.01.11 18:35:31] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2022.01.11 18:35:31] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2022.01.11 20:01:15] TCP Error: error packet received, endpoint: '149.154.167.51:443', protocolDcId: 2, code = -404
+[2022.01.11 20:01:15] MTP Info: -404 error received in 10002 with temporary key, assuming it was destroyed.
+[2022.01.12 17:32:57] TCP Error: error packet received, endpoint: '149.154.165.111:443', protocolDcId: -4, code = -404
+[2022.01.12 17:32:57] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2022.01.12 17:32:57] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 17:32:59] Audio Info: Closing audio playback device.
+[2022.01.12 17:33:09] Could not send ping for some seconds, restarting...
+[2022.01.12 17:43:40] TCP Error: error packet received, endpoint: '149.154.167.50:443', protocolDcId: 2, code = -404
+[2022.01.12 17:43:40] MTP Info: -404 error received in 10002 with temporary key, assuming it was destroyed.
+[2022.01.12 17:48:47] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 17:48:49] Audio Info: Closing audio playback device.
+[2022.01.12 18:35:34] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2022.01.12 18:35:34] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2022.01.12 19:17:57] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 19:17:59] Audio Info: Closing audio playback device.
+[2022.01.12 19:20:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 19:20:55] Audio Info: Closing audio playback device.
+[2022.01.12 19:22:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 19:22:19] Audio Info: Closing audio playback device.
+[2022.01.12 19:22:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 19:22:31] Audio Info: Closing audio playback device.
+[2022.01.12 20:21:00] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:21:02] Audio Info: Closing audio playback device.
+[2022.01.12 20:21:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:21:07] Audio Info: Closing audio playback device.
+[2022.01.12 20:21:13] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:21:15] Audio Info: Closing audio playback device.
+[2022.01.12 20:22:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:22:45] Audio Info: Closing audio playback device.
+[2022.01.12 20:22:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:22:49] Audio Info: Closing audio playback device.
+[2022.01.12 20:22:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:22:56] Audio Info: Closing audio playback device.
+[2022.01.12 20:22:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:23:03] Audio Info: Closing audio playback device.
+[2022.01.12 20:23:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:23:10] Audio Info: Closing audio playback device.
+[2022.01.12 20:23:24] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:23:25] Audio Info: Closing audio playback device.
+[2022.01.12 20:23:36] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:23:38] Audio Info: Closing audio playback device.
+[2022.01.12 20:23:42] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:23:44] Audio Info: Closing audio playback device.
+[2022.01.12 20:23:47] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:23:49] Audio Info: Closing audio playback device.
+[2022.01.12 20:23:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:23:56] Audio Info: Closing audio playback device.
+[2022.01.12 20:25:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:25:03] Audio Info: Closing audio playback device.
+[2022.01.12 20:25:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:25:14] Audio Info: Closing audio playback device.
+[2022.01.12 20:25:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:25:29] Audio Info: Closing audio playback device.
+[2022.01.12 20:25:49] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:25:51] Audio Info: Closing audio playback device.
+[2022.01.12 20:26:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:26:08] Audio Info: Closing audio playback device.
+[2022.01.12 20:26:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:26:32] Audio Info: Closing audio playback device.
+[2022.01.12 20:26:35] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:26:37] Audio Info: Closing audio playback device.
+[2022.01.12 20:27:10] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:27:12] Audio Info: Closing audio playback device.
+[2022.01.12 20:28:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:28:16] Audio Info: Closing audio playback device.
+[2022.01.12 20:28:19] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:28:21] Audio Info: Closing audio playback device.
+[2022.01.12 20:28:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:28:58] Audio Info: Closing audio playback device.
+[2022.01.12 20:33:50] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:33:52] Audio Info: Closing audio playback device.
+[2022.01.12 20:33:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:33:54] Audio Info: Closing audio playback device.
+[2022.01.12 20:33:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:33:58] Audio Info: Closing audio playback device.
+[2022.01.12 20:53:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:53:11] Audio Info: Closing audio playback device.
+[2022.01.12 20:56:20] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:56:21] Audio Info: Closing audio playback device.
+[2022.01.12 20:57:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:57:19] Audio Info: Closing audio playback device.
+[2022.01.12 20:57:44] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 20:57:46] Audio Info: Closing audio playback device.
+[2022.01.12 21:08:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:08:48] Audio Info: Closing audio playback device.
+[2022.01.12 21:09:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:09:03] Audio Info: Closing audio playback device.
+[2022.01.12 21:09:23] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:09:25] Audio Info: Closing audio playback device.
+[2022.01.12 21:09:39] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:09:41] Audio Info: Closing audio playback device.
+[2022.01.12 21:09:47] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:09:47] TCP Error: error packet received, endpoint: '149.154.175.50:443', protocolDcId: 1, code = -404
+[2022.01.12 21:09:47] MTP Info: -404 error received in 160001 with temporary key, assuming it was destroyed.
+[2022.01.12 21:09:49] Audio Info: Closing audio playback device.
+[2022.01.12 21:10:21] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:10:23] Audio Info: Closing audio playback device.
+[2022.01.12 21:11:32] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:11:33] Audio Info: Closing audio playback device.
+[2022.01.12 21:12:03] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:12:05] Audio Info: Closing audio playback device.
+[2022.01.12 21:12:11] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:12:13] Audio Info: Closing audio playback device.
+[2022.01.12 21:12:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:12:53] Audio Info: Closing audio playback device.
+[2022.01.12 21:13:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:13:04] Audio Info: Closing audio playback device.
+[2022.01.12 21:13:06] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:13:08] Audio Info: Closing audio playback device.
+[2022.01.12 21:13:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:13:19] Audio Info: Closing audio playback device.
+[2022.01.12 21:13:39] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:13:41] Audio Info: Closing audio playback device.
+[2022.01.12 21:13:42] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:13:44] Audio Info: Closing audio playback device.
+[2022.01.12 21:13:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:13:48] Audio Info: Closing audio playback device.
+[2022.01.12 21:13:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:13:57] Audio Info: Closing audio playback device.
+[2022.01.12 21:14:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:14:07] Audio Info: Closing audio playback device.
+[2022.01.12 21:14:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:14:20] Audio Info: Closing audio playback device.
+[2022.01.12 21:14:28] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:14:30] Audio Info: Closing audio playback device.
+[2022.01.12 21:15:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:15:54] Audio Info: Closing audio playback device.
+[2022.01.12 21:16:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:16:07] Audio Info: Closing audio playback device.
+[2022.01.12 21:16:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:16:14] Audio Info: Closing audio playback device.
+[2022.01.12 21:16:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:16:40] Audio Info: Closing audio playback device.
+[2022.01.12 21:16:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:16:45] Audio Info: Closing audio playback device.
+[2022.01.12 21:16:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:16:50] Audio Info: Closing audio playback device.
+[2022.01.12 21:17:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:17:03] Audio Info: Closing audio playback device.
+[2022.01.12 21:17:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:17:07] Audio Info: Closing audio playback device.
+[2022.01.12 21:17:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:17:16] Audio Info: Closing audio playback device.
+[2022.01.12 21:18:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:18:03] Audio Info: Closing audio playback device.
+[2022.01.12 21:18:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:18:20] Audio Info: Closing audio playback device.
+[2022.01.12 21:18:22] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:18:24] Audio Info: Closing audio playback device.
+[2022.01.12 21:19:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:19:29] Audio Info: Closing audio playback device.
+[2022.01.12 21:19:35] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:19:37] Audio Info: Closing audio playback device.
+[2022.01.12 21:19:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:19:46] Audio Info: Closing audio playback device.
+[2022.01.12 21:19:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:19:55] Audio Info: Closing audio playback device.
+[2022.01.12 21:20:37] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:20:39] Audio Info: Closing audio playback device.
+[2022.01.12 21:21:36] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:21:38] Audio Info: Closing audio playback device.
+[2022.01.12 21:22:10] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:22:12] Audio Info: Closing audio playback device.
+[2022.01.12 21:23:28] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:23:30] Audio Info: Closing audio playback device.
+[2022.01.12 21:23:59] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:24:01] Audio Info: Closing audio playback device.
+[2022.01.12 21:24:55] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:24:57] Audio Info: Closing audio playback device.
+[2022.01.12 21:25:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:25:31] Audio Info: Closing audio playback device.
+[2022.01.12 21:25:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:25:53] Audio Info: Closing audio playback device.
+[2022.01.12 21:25:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:26:00] Audio Info: Closing audio playback device.
+[2022.01.12 21:26:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:26:18] Audio Info: Closing audio playback device.
+[2022.01.12 21:26:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:26:31] Audio Info: Closing audio playback device.
+[2022.01.12 21:26:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:26:40] Audio Info: Closing audio playback device.
+[2022.01.12 21:26:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:26:45] Audio Info: Closing audio playback device.
+[2022.01.12 21:26:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:26:54] Audio Info: Closing audio playback device.
+[2022.01.12 21:29:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:29:09] Audio Info: Closing audio playback device.
+[2022.01.12 21:30:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:30:18] Audio Info: Closing audio playback device.
+[2022.01.12 21:30:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:30:56] Audio Info: Closing audio playback device.
+[2022.01.12 21:34:37] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:34:39] Audio Info: Closing audio playback device.
+[2022.01.12 21:35:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:35:43] Audio Info: Closing audio playback device.
+[2022.01.12 21:36:00] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:36:02] Audio Info: Closing audio playback device.
+[2022.01.12 21:37:13] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:37:15] Audio Info: Closing audio playback device.
+[2022.01.12 21:37:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:37:27] Audio Info: Closing audio playback device.
+[2022.01.12 21:37:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:37:40] Audio Info: Closing audio playback device.
+[2022.01.12 21:38:06] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:38:08] Audio Info: Closing audio playback device.
+[2022.01.12 21:38:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:38:20] Audio Info: Closing audio playback device.
+[2022.01.12 21:38:59] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:39:01] Audio Info: Closing audio playback device.
+[2022.01.12 21:39:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:39:27] Audio Info: Closing audio playback device.
+[2022.01.12 21:39:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:39:56] Audio Info: Closing audio playback device.
+[2022.01.12 21:40:47] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:40:49] Audio Info: Closing audio playback device.
+[2022.01.12 21:41:06] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:41:08] Audio Info: Closing audio playback device.
+[2022.01.12 21:41:44] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:41:46] Audio Info: Closing audio playback device.
+[2022.01.12 21:42:08] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:42:10] Audio Info: Closing audio playback device.
+[2022.01.12 21:42:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:42:20] Audio Info: Closing audio playback device.
+[2022.01.12 21:42:49] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:42:51] Audio Info: Closing audio playback device.
+[2022.01.12 21:43:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:43:18] Audio Info: Closing audio playback device.
+[2022.01.12 21:43:42] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:43:44] Audio Info: Closing audio playback device.
+[2022.01.12 21:43:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:43:54] Audio Info: Closing audio playback device.
+[2022.01.12 21:43:55] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:43:57] Audio Info: Closing audio playback device.
+[2022.01.12 21:44:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:44:17] Audio Info: Closing audio playback device.
+[2022.01.12 21:45:36] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:45:38] Audio Info: Closing audio playback device.
+[2022.01.12 21:46:41] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:46:43] Audio Info: Closing audio playback device.
+[2022.01.12 21:46:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:46:53] Audio Info: Closing audio playback device.
+[2022.01.12 21:47:03] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:47:05] Audio Info: Closing audio playback device.
+[2022.01.12 21:47:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:47:11] Audio Info: Closing audio playback device.
+[2022.01.12 21:47:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:47:27] Audio Info: Closing audio playback device.
+[2022.01.12 21:47:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:47:29] Audio Info: Closing audio playback device.
+[2022.01.12 21:47:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:47:40] Audio Info: Closing audio playback device.
+[2022.01.12 21:48:10] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:48:11] Audio Info: Closing audio playback device.
+[2022.01.12 21:48:24] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:48:26] Audio Info: Closing audio playback device.
+[2022.01.12 21:48:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:48:29] Audio Info: Closing audio playback device.
+[2022.01.12 21:48:36] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:48:38] Audio Info: Closing audio playback device.
+[2022.01.12 21:48:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:48:40] Audio Info: Closing audio playback device.
+[2022.01.12 21:48:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:48:48] Audio Info: Closing audio playback device.
+[2022.01.12 21:48:59] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:49:01] Audio Info: Closing audio playback device.
+[2022.01.12 21:49:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:49:07] Audio Info: Closing audio playback device.
+[2022.01.12 21:49:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:49:19] Audio Info: Closing audio playback device.
+[2022.01.12 21:49:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:49:31] Audio Info: Closing audio playback device.
+[2022.01.12 21:49:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:49:45] Audio Info: Closing audio playback device.
+[2022.01.12 21:49:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:49:54] Audio Info: Closing audio playback device.
+[2022.01.12 21:49:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:50:00] Audio Info: Closing audio playback device.
+[2022.01.12 21:50:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:50:03] Audio Info: Closing audio playback device.
+[2022.01.12 21:50:04] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:50:06] Audio Info: Closing audio playback device.
+[2022.01.12 21:50:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:50:17] Audio Info: Closing audio playback device.
+[2022.01.12 21:50:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:50:19] Audio Info: Closing audio playback device.
+[2022.01.12 21:50:49] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:50:51] Audio Info: Closing audio playback device.
+[2022.01.12 21:51:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:51:10] Audio Info: Closing audio playback device.
+[2022.01.12 21:51:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:51:20] Audio Info: Closing audio playback device.
+[2022.01.12 21:51:34] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:51:36] Audio Info: Closing audio playback device.
+[2022.01.12 21:51:38] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:51:40] Audio Info: Closing audio playback device.
+[2022.01.12 21:51:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:51:47] Audio Info: Closing audio playback device.
+[2022.01.12 21:52:01] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:52:03] Audio Info: Closing audio playback device.
+[2022.01.12 21:52:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:52:32] Audio Info: Closing audio playback device.
+[2022.01.12 21:52:42] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:52:44] Audio Info: Closing audio playback device.
+[2022.01.12 21:52:47] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:52:49] Audio Info: Closing audio playback device.
+[2022.01.12 21:52:55] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:52:58] Audio Info: Closing audio playback device.
+[2022.01.12 21:52:59] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:53:01] Audio Info: Closing audio playback device.
+[2022.01.12 21:53:09] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:53:11] Audio Info: Closing audio playback device.
+[2022.01.12 21:53:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:53:19] Audio Info: Closing audio playback device.
+[2022.01.12 21:53:26] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:53:28] Audio Info: Closing audio playback device.
+[2022.01.12 21:53:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:53:51] Audio Info: Closing audio playback device.
+[2022.01.12 21:53:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:53:53] Audio Info: Closing audio playback device.
+[2022.01.12 21:53:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:54:00] Audio Info: Closing audio playback device.
+[2022.01.12 21:55:10] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:55:12] Audio Info: Closing audio playback device.
+[2022.01.12 21:55:48] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:55:50] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:02] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:04] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:13] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:14] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:18] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:21] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:23] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:31] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:33] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:34] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:35] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:45] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:47] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:50] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:52] Audio Info: Closing audio playback device.
+[2022.01.12 21:56:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:56:58] Audio Info: Closing audio playback device.
+[2022.01.12 21:57:00] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:57:02] Audio Info: Closing audio playback device.
+[2022.01.12 21:57:05] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:57:07] Audio Info: Closing audio playback device.
+[2022.01.12 21:57:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:57:17] Audio Info: Closing audio playback device.
+[2022.01.12 21:57:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:57:29] Audio Info: Closing audio playback device.
+[2022.01.12 21:57:42] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:57:44] Audio Info: Closing audio playback device.
+[2022.01.12 21:57:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:57:47] Audio Info: Closing audio playback device.
+[2022.01.12 21:57:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:57:55] Audio Info: Closing audio playback device.
+[2022.01.12 21:58:04] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:58:06] Audio Info: Closing audio playback device.
+[2022.01.12 21:58:25] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:58:26] Audio Info: Closing audio playback device.
+[2022.01.12 21:58:27] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:58:29] Audio Info: Closing audio playback device.
+[2022.01.12 21:58:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:58:45] Audio Info: Closing audio playback device.
+[2022.01.12 21:59:40] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 21:59:42] Audio Info: Closing audio playback device.
+[2022.01.12 22:00:04] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:00:06] Audio Info: Closing audio playback device.
+[2022.01.12 22:00:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:00:31] Audio Info: Closing audio playback device.
+[2022.01.12 22:01:31] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:01:33] Audio Info: Closing audio playback device.
+[2022.01.12 22:02:08] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:02:10] Audio Info: Closing audio playback device.
+[2022.01.12 22:02:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:02:18] Audio Info: Closing audio playback device.
+[2022.01.12 22:02:29] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:02:31] Audio Info: Closing audio playback device.
+[2022.01.12 22:02:34] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:02:36] Audio Info: Closing audio playback device.
+[2022.01.12 22:02:42] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:02:44] Audio Info: Closing audio playback device.
+[2022.01.12 22:02:45] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:02:47] Audio Info: Closing audio playback device.
+[2022.01.12 22:02:50] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:02:52] Audio Info: Closing audio playback device.
+[2022.01.12 22:02:53] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:02:55] Audio Info: Closing audio playback device.
+[2022.01.12 22:03:30] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:03:32] Audio Info: Closing audio playback device.
+[2022.01.12 22:03:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:03:45] Audio Info: Closing audio playback device.
+[2022.01.12 22:03:51] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:03:53] Audio Info: Closing audio playback device.
+[2022.01.12 22:04:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:05:00] Audio Info: Closing audio playback device.
+[2022.01.12 22:07:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:07:18] Audio Info: Closing audio playback device.
+[2022.01.12 22:10:47] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:10:49] Audio Info: Closing audio playback device.
+[2022.01.12 22:10:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:10:56] Audio Info: Closing audio playback device.
+[2022.01.12 22:15:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:15:20] Audio Info: Closing audio playback device.
+[2022.01.12 22:15:31] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:15:34] Audio Info: Closing audio playback device.
+[2022.01.12 22:15:40] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:15:42] Audio Info: Closing audio playback device.
+[2022.01.12 22:15:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:15:48] Audio Info: Closing audio playback device.
+[2022.01.12 22:17:28] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:17:30] Audio Info: Closing audio playback device.
+[2022.01.12 22:17:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.12 22:17:56] Audio Info: Closing audio playback device.
+[2022.01.13 07:33:37] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 07:33:39] Audio Info: Closing audio playback device.
+[2022.01.13 18:37:21] TCP Error: error packet received, endpoint: '149.154.167.91:443', protocolDcId: 4, code = -404
+[2022.01.13 18:37:21] MTP Info: -404 error received in 4 with temporary key, assuming it was destroyed.
+[2022.01.13 18:37:22] Message Info: bad message notification received (error_code 16) for msg_id = 7052575372674727092, seq_no = 4
+[2022.01.13 18:37:25] Config Error: No 'Date' header received.
+[2022.01.13 18:37:25] TCP Error: error packet received, endpoint: '91.108.56.177:443', protocolDcId: 5, code = -404
+[2022.01.13 18:37:25] MTP Info: -404 error received in 10005 with temporary key, assuming it was destroyed.
+[2022.01.13 18:38:07] Could not send ping for some seconds, restarting...
+[2022.01.13 18:38:07] TCP Error: error packet received, endpoint: '149.154.165.111:443', protocolDcId: -4, code = -404
+[2022.01.13 18:38:07] MTP Info: -404 error received in 160004 with temporary key, assuming it was destroyed.
+[2022.01.13 18:38:07] TCP Error: error packet received, endpoint: '149.154.167.151:443', protocolDcId: -2, code = -404
+[2022.01.13 18:38:07] MTP Info: -404 error received in 160002 with temporary key, assuming it was destroyed.
+[2022.01.13 18:38:07] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 18:38:09] Audio Info: Closing audio playback device.
+[2022.01.13 18:41:12] Skipping message, because it is already in blocks!
+[2022.01.13 18:46:31] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 18:46:33] Audio Info: Closing audio playback device.
+[2022.01.13 19:02:14] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 19:02:16] Audio Info: Closing audio playback device.
+[2022.01.13 19:02:18] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 19:02:19] Audio Info: Closing audio playback device.
+[2022.01.13 19:29:15] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 19:29:17] Audio Info: Closing audio playback device.
+[2022.01.13 19:29:52] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 19:29:54] Audio Info: Closing audio playback device.
+[2022.01.13 20:56:04] Skipping message, because it is already in blocks!
+[2022.01.13 20:57:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 20:57:48] Audio Info: Closing audio playback device.
+[2022.01.13 20:58:44] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 20:58:46] Audio Info: Closing audio playback device.
+[2022.01.13 20:58:50] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 20:58:52] Audio Info: Closing audio playback device.
+[2022.01.13 21:02:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:03:00] Audio Info: Closing audio playback device.
+[2022.01.13 21:04:24] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:04:26] Audio Info: Closing audio playback device.
+[2022.01.13 21:06:43] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:06:45] Audio Info: Closing audio playback device.
+[2022.01.13 21:07:50] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:07:52] Audio Info: Closing audio playback device.
+[2022.01.13 21:07:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:07:58] Audio Info: Closing audio playback device.
+[2022.01.13 21:26:54] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:26:56] Audio Info: Closing audio playback device.
+[2022.01.13 21:26:58] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:27:00] Audio Info: Closing audio playback device.
+[2022.01.13 21:32:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:32:48] Audio Info: Closing audio playback device.
+[2022.01.13 21:32:56] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:32:57] Audio Info: Closing audio playback device.
+[2022.01.13 21:35:23] Skipping message, because it is already in blocks!
+[2022.01.13 21:37:42] Skipping message, because it is already in blocks!
+[2022.01.13 21:37:57] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:37:59] Audio Info: Closing audio playback device.
+[2022.01.13 21:38:06] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 21:38:08] Audio Info: Closing audio playback device.
+[2022.01.13 22:17:17] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 22:17:19] Audio Info: Closing audio playback device.
+[2022.01.13 22:17:21] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 22:17:23] Audio Info: Closing audio playback device.
+[2022.01.13 22:18:26] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.13 22:18:28] Audio Info: Closing audio playback device.
+[2022.01.13 22:23:31] RPC Error: request 3753 got fail with code 400, error PEER_ID_INVALID
+[2022.01.13 22:23:31] RPC Error: request 3756 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.01.14 15:27:08] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.14 15:27:10] Audio Info: Closing audio playback device.
+[2022.01.14 15:27:53] Could not send ping for some seconds, restarting...
+[2022.01.14 15:32:50] Message Info: bad message notification received (error_code 33) for msg_id = 7053069752214080956, seq_no = 2152
+[2022.01.14 15:32:50] Message Info: bad message notification received, msgId 7053069752214080956, error_code 33
+[2022.01.14 15:33:38] Skipping message, because it is already in blocks!
+[2022.01.14 15:38:35] RPC Error: request 4041 got fail with code 400, error PEER_ID_INVALID
+[2022.01.14 15:38:47] Skipping message, because it is already in blocks!
+[2022.01.14 15:39:29] RPC Error: request 4062 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2022.01.14 15:39:31] RPC Error: request 4067 got fail with code 400, error PEER_ID_INVALID
+[2022.01.14 15:40:16] Skipping message, because it is already in blocks!
+[2022.01.14 15:44:46] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.14 15:44:48] Audio Info: Closing audio playback device.
+[2022.01.14 15:45:19] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.14 15:45:21] Audio Info: Closing audio playback device.
+[2022.01.14 15:52:16] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.14 15:52:18] Audio Info: Closing audio playback device.
+[2022.01.14 16:24:31] Skipping message, because it is already in blocks!
+[2022.01.14 16:26:03] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.14 16:26:05] Audio Info: Closing audio playback device.
+[2022.01.14 16:38:18] Skipping message, because it is already in blocks!
+[2022.01.14 16:40:06] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.14 16:40:08] Audio Info: Closing audio playback device.
+[2022.01.14 16:40:12] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.14 16:40:14] Audio Info: Closing audio playback device.
+[2022.01.14 16:40:21] Audio Info: recreating audio device and reattaching the tracks
+[2022.01.14 16:40:23] Audio Info: Closing audio playback device.

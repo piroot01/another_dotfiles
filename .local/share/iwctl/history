@@ -1,0 +1,24 @@
+station wlan0 connect noha 
+exit
+station wlan0 show 
+q
+e
+exit
+station wlan0 show 
+station wlan0 connect noha 
+exit
+station wlan0 connect noha 
+exit
+station wlan0 show 
+station wlan0 disconnect noha
+station wlan0 show 
+station wlan0 disconnect noha
+station wlan0 connect noha
+exit
+station wlan0 scan 
+station wlan0 show
+station wlan0 get-networks 
+station wlan0 connect KITTV 
+exit 
+station wlan0 show 
+exit

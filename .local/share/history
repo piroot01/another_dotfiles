@@ -1,0 +1,1140 @@
+: 1641137247:0;sudo pacman -S if
+: 1641137271:0;sudo pacman -S qutebrowser
+: 1641137410:0;sudo pacman -S fzf
+: 1641137494:0;paru -S zsh-fash
+: 1641137514:0;paru zsh-fast
+: 1641137552:0;paru zsh-history
+: 1641137586:0;paru autosugestions
+: 1641137591:0;paru autosugg
+: 1641137620:0;cd do
+: 1641137669:0;mv .config/nvim/ ../.config/
+: 1641137694:0;pac -S neovim
+: 1641137706:0;vim
+: 1641137798:0;pac -S node
+: 1641137818:0;pac -S nodejs
+: 1641137844:0;pac -S npm
+: 1641137900:0;pac -S python-pnvim
+: 1641137916:0;paru python-pnvim
+: 1641137936:0;pac -S python-pynvim
+: 1641137941:0;paru  python-pynvim
+: 1641138312:0;cd dmenu
+: 1641138314:0;vim config.
+: 1641138456:0;mv 30-touchpad.conf /etc/X11/xorg.conf.d
+: 1641138460:0;sudo mv 30-touchpad.conf /etc/X11/xorg.conf.d
+: 1641138488:0;cd coc
+: 1641138565:0;sudo pacman -S pipewire pipewire-pulse wireplumber
+: 1641138681:0;paru symbola
+: 1641138709:0;paru symbols-nerd-font
+: 1641138714:0;paru nerd-font
+: 1641138721:0;paru nerd-font | less
+: 1641138738:0;paru nerd-font-symbols
+: 1641138740:0;paru nerd-font-symbol
+: 1641138744:0;paru nerd-symbol
+: 1641138745:0;paru nerd-symbols
+: 1641138758:0;paru symbols-nerd
+: 1641138768:0;paru symbols | less
+: 1641138777:0;paru symbols | grep nerd
+: 1641138800:0;paru symbols
+: 1641139109:0;cd pulse
+: 1641139161:0;pac -S pipewire
+: 1641139199:0;cd alsa
+: 1641139201:0;cd conf.d
+: 1641139207:0;vim 50-pipewire.conf
+: 1641139375:0;cd pinentry
+: 1641139620:0;mkdir pipewire
+: 1641139640:0;cp pipewire.conf ../../../home/tomas/.config/pipewire
+: 1641139644:0;cd pipewire
+: 1641139768:0;pac -S python-pamixer
+: 1641139846:0;rm -rf .viminfo .vim .bash*
+: 1641139863:0;vim config
+: 1641139976:0;pac -S mocp
+: 1641139984:0;paru moc
+: 1641139988:0;paru mocp
+: 1641140083:0;pac -S artix-archlinux-support
+: 1641140142:0;cd /etc/pacman.d
+: 1641140148:0;vim mirrorlist
+: 1641140158:0;s
+: 1641140176:0;vim pacman.conf
+: 1641140243:0;pacman-key --populate archlinux
+: 1641140247:0;sudo pacman-key --populate archlinux
+: 1641140311:0;pac -S bashmount
+: 1641140318:0;paru bashmount
+: 1641140337:0;pac -S udisks2
+: 1641140371:0;mv bashmount ../../.config/
+: 1641140377:0;mv dwm ../../.config/
+: 1641140393:0;mv wall ../../.config/
+: 1641140468:0;pac -S xbanish
+: 1641140475:0;paru xbanish
+: 1641140495:0;cd wall
+: 1641140506:0;pacman -S feh
+: 1641140512:0;pac -S feh
+: 1641140812:0;vim alsa.conf
+: 1641141184:0;mv dotfiles/.moc .
+: 1641141366:0;cd modprobe.d
+: 1641141408:0;sudo touch default.conf
+: 1641141414:0;vim default.conf
+: 1641141447:0;sudo vim default.conf
+: 1641141470:0;lspci -knn|grep -iA2 audio
+: 1641141693:0;mkdir media
+: 1641141696:0;sudo mkdir media
+: 1641141719:0;cd media
+: 1641141728:0;sudo mkdir tomas
+: 1641141744:0;cd home
+: 1641141764:0;chgrp tomas tomas
+: 1641141770:0;sudo chgrp tomas tomas
+: 1641141775:0;sudo chown tomas tomas
+: 1641141789:0;chmod 700 tomas
+: 1641141988:0;pac -S cifs-utils
+: 1641142074:0;pac -S ranfer
+: 1641142077:0;pac -S ranger
+: 1641142092:0;mv dotfiles/.config/ranger .config
+: 1641142113:0;cd ranger
+: 1641142120:0;r
+: 1641142205:0;rm -rf ranger_devicons
+: 1641142210:0;git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+: 1641142214:0;cd ranger_devicons
+: 1641142229:0;rm -rf CONTRIBUTING.MD LICENSE LICENSE_NERDFONT README.md screenshot.png
+: 1641142238:0;rm -rf .*
+: 1641143137:0;cd sndiod
+: 1641143151:0;pac -S picom
+: 1641143193:0;mv gtk-2.0 ../../.config/
+: 1641143197:0;mv gtk-3.0 ../../.config/
+: 1641143203:0;pac -S papirus-icon-theme
+: 1641143244:0;mv picom ../../.config/
+: 1641143265:0;paru breeze | les
+: 1641143267:0;paru breeze | less
+: 1641143289:0;paru breeze
+: 1641143345:0;pac -S neofetch
+: 1641143356:0;neofetch
+: 1641143416:0;mv zathura ...
+: 1641143450:0;pac -S fd
+: 1641143472:0;mv ./dotfiles/.config/.../zathurarc .config
+: 1641144066:0;pac -S xbacklight
+: 1641144075:0;paru xbacklight
+: 1641144160:0;sudo find /sys/ -type f -iname '*brightness*'\
+
+: 1641144278:0;sudo sudo ln -s /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight/brightness  /sys/class/backlight
+: 1641144288:0;sudo ln -s /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight/brightness  /sys/class/backlight
+: 1641144314:0;ln -s /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight/brightness  /sys/class/backlight
+: 1641144431:0;touch xorg.conf
+: 1641144435:0;sudo touch xorg.conf
+: 1641144557:0;ln --help
+: 1641144566:0;sudo ln -fs /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight/brightness  /sys/class/backlight
+: 1641144577:0;sudo ln -s -f /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight/brightness  /sys/class/backlight
+: 1641144633:0;cat xorg.conf
+: 1641144783:0;sudo apt install xbacklight xorg xserver-xorg-video-intel
+: 1641144809:0;paru xorg-video-intel
+: 1641144826:0;ind /sys -type f -name brightness
+: 1641144833:0;lspci /sys -type f -name brightness
+: 1641144840:0;sudo find /sys/ -type f -iname '*brightness*'
+: 1641144915:0;sudo ln -s /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight/brightness /sys/class/brightness
+: 1641144925:0;cd bdi
+: 1641144939:0;sls
+: 1641145049:0;cd devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1
+: 1641145098:0;sudo touch /sys/class/brightness
+: 1641145123:0;su -
+: 1641145449:0;vim xorg.conf.d
+: 1641145465:0;vim xorg.conf
+: 1641145499:0;sudo vim xorg.conf
+: 1641145693:0;sudo ln -sf /sys/devices/pci0000:00/0000:00:02.0/drm/card0/card0-eDP-1/intel_backlight/brightness /sys/class/brightness
+: 1641145854:0;vim 20-intel.conf
+: 1641146030:0;cd /sys/class
+: 1641146035:0;cd backlight
+: 1641146051:0;vim intel_backlight
+: 1641146061:0;cd intel_backlight
+: 1641146100:0;cd /etc/X11
+: 1641146103:0;cd xorg.conf.d
+: 1641146115:0;sudo vim 20-intel.conf
+: 1641146173:0;cat 20-intel.conf
+: 1641146405:0;pac -S acpilight
+: 1641146433:0;xbacklight -inc 10
+: 1641146439:0;xbacklight -dec 10
+: 1641146460:0;sudo xbacklight -set 10
+: 1641146463:0;sudo xbacklight -set 30
+: 1641146465:0;sudo xbacklight -set 50
+: 1641146592:0;cd dotfiles
+: 1641146605:0;pac -S mpv
+: 1641146625:0;mv cups ../../.config
+: 1641146631:0;mv mpv ../../.config
+: 1641146644:0;rm -rf dotfiles
+: 1641146759:0;ls -l /dev
+: 1641146863:0;ls -1 /dev | grep -e sd -e mmc | grep -v -e sda -e sdb | tr -d 1234567890 | sort -u | paste -sd ", " -
+: 1641146923:0;ls -l /dev | grep -e sd -e mmc | grep -v -e sda -e sdb | tr -d 1234567890 | sort -u | paste -sd ", " -
+: 1641146930:0;ls -l /dev | grep -e sd -e mmc | grep -v -e sda -e sdb | tr -d 1234567890 | sort -u | paste -sd ", "
+: 1641146933:0;ls -l /dev | grep -e sd -e mmc | grep -v -e sda -e sdb | tr -d 1234567890 | sort -u 
+: 1641146936:0;ls -l /dev | grep -e sd -e mmc | grep -v -e sda -e sdb | tr -d 1234567890
+: 1641146942:0;ls -l /dev | grep -e sd -e mmc
+: 1641146955:0;ls -l /dev | grep -e sd -e mmc | grep -v -e sda -e sdb
+: 1641146985:0;grep --h
+: 1641147021:0;ls -l /dev | grep -e sd -e mmc | grep -v -e sda
+: 1641147058:0;bm
+: 1641147133:0;pac -S guncharmap
+: 1641147138:0;pac -S gucharmap
+: 1641147252:0;backlight
+: 1641147303:0;pac -Rscn gucharmap
+: 1641147317:0;xbacklight
+: 1641147328:0;xbacklight -get
+: 1641147348:0;./backlight
+: 1641147683:0;pac -S siji
+: 1641147689:0;paru siji
+: 1641147722:0;paru gucharmap
+: 1641147852:0;cat volome
+: 1641147859:0;cat volume
+: 1641148106:0;cd .config/suckless/slstatus
+: 1641148361:0;chmod +x battery
+: 1641148416:0;./battery
+: 1641148507:0;cd /sys/class/power_supply
+: 1641149805:0;iwc
+: 1641150324:0;paru telegram
+: 1641150348:0;paru telegram-desktop
+: 1641150912:0;lx
+: 1641150991:0;sudo mkdir iwd
+: 1641151101:0;cd /var/lib/iwd
+: 1641151108:0;sudo cd /var/lib/iwd
+: 1641151468:0;sudo rc-service iwd restrt
+: 1641151518:0;sudo rc-service iwd status
+: 1641151722:0;rc-service net.eth0 restart
+: 1641151725:0;sudo rc-service net.eth0 restart
+: 1641151821:0;cd .../
+: 1641151900:0;sudo rc-service iwd stop
+: 1641151905:0;sudo rc-service iwd start
+: 1641151973:0;pac -S openresolv
+: 1641152190:0;pac -Rscn siji-git
+: 1641152602:0;vim time
+: 1641152694:0;chmod +x time
+: 1641152697:0;./time
+: 1641152824:0;chmod +x date
+: 1641152827:0;./date
+: 1641152832:0;vim date
+: 1641153053:0;free -h
+: 1641153061:0;free -h | grep Men
+: 1641153062:0;free -h | grep Mem
+: 1641153080:0;free -h | grep Mem | awk '{print $2}'
+: 1641153288:0;chmod +x memory
+: 1641153334:0;vim backlight
+: 1641153399:0;./memory
+: 1641153458:0;pac -S rg
+: 1641153489:0;top -bn1 | rg -o "Cpu\(s\):\s+\d+.\d" | rg -o "\d+\.\d"
+: 1641153493:0;pac -S ripgrep
+: 1641153562:0;cd custom
+: 1641153692:0;chmod +x cpu_usage
+: 1641153700:0;vim memory
+: 1641153704:0;vim cpu_usage
+: 1641153718:0;./cpu_usage
+: 1641153775:0;free -h | grep Mem | awk '{print $3}'
+: 1641153820:0;sensors | grep Package | awk '{print $4}' | tr -d +
+: 1641153921:0;chmod +x cpu_temp
+: 1641153926:0;./cpu_temp
+: 1641154372:0;git clone https://github.com/torrinfail/dwmblocks.git
+: 1641154414:0;vim blocks.def.h
+: 1641154557:0;cp -r slstatus/custom dwmblocks
+: 1641154574:0;mv custom blocks
+: 1641155683:0;vim bri
+: 1641155904:0;cd components
+: 1641155911:0;vim keymap.c
+: 1641156053:0;setxkbmap -query | grep layout
+: 1641156058:0;setxkbmap -query
+: 1641156108:0;paru xkblayout
+: 1641156159:0;xkblayout-state print "%s\n"
+: 1641156194:0;cd ../dwmblocks
+: 1641156204:0;vim layout
+: 1641156227:0;cd .config/suckless/slstatus/custom
+: 1641156235:0;vim cpu_temp
+: 1641156290:0;xkblayout-state print "%n"
+: 1641156300:0;xkblayout-state print "%s"
+: 1641156412:0;chmod +x layout
+: 1641156415:0;./layout
+: 1641157055:0;pac -S nmcli
+: 1641157062:0;paru nmcli
+: 1641157525:0;cd .config/suckless/dwmblocks/blo
+: 1641158190:0;vim dwmblocks.h
+: 1641158198:0;vim dwmblocks
+: 1641158245:0;dwmblocks
+: 1641158459:0;cd slstatus
+: 1641158508:0;cd suckless/dwmblocks
+: 1641158766:0;iwconfig | grep ESSID | sed -e 's/.*ESSID:"\(.*\)".*/\1/'
+: 1641158869:0;iwctl ap
+: 1641158884:0;iwctl ap show
+: 1641158925:0;iwctl -h | less
+: 1641158934:0;q
+: 1641159210:0;
+: 1641159240:0;iwctl --ap
+: 1641159244:0;iwctl -h
+: 1641159254:0;iwctl station list
+: 1641159269:0;iwctl station wlan0 show
+: 1641159288:0;iwctl station wlan0 show | grep network
+: 1641159302:0;iwctl station wlan0 show | grep network | awk "{print $2}"
+: 1641159307:0;iwctl station wlan0 show | grep network | awk "{print $1}"
+: 1641159387:0;vim removable
+: 1641159404:0;iwctl station wlan0 show | grep network | awk '{print $1}'
+: 1641159407:0;iwctl station wlan0 show | grep network | awk '{print $3}'
+: 1641159418:0;vim net
+: 1641159840:0;vim dwmblocks.c
+: 1641160177:0;xbacklight -set 10
+: 1641160423:0;mocp -i | grep Song | awk -F':' '{print $2}' | tail -c +2
+: 1641160436:0;mocp -i | grep Song | awk -F':' '{print $2}'
+: 1641160445:0;mocp -i | grep Song
+: 1641160449:0;mocp -i
+: 1641162198:0;cd .config/suckless/slock
+: 1641162260:0;ran
+: 1641165370:0;cd .config/
+: 1641165376:0;cd qutebrowser
+: 1641165473:0;mkdir config.py
+: 1641165475:0;curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/default/base16-default-dark.config.py >> ~/.qutebrowser/config.py
+: 1641165515:0;curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/default/base16-default-dark.config.py >> ~/.config/qutebrowser
+: 1641165522:0;curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/default/base16-default-dark.config.py >> ~/.config/qutebrowser/config.py
+: 1641165575:0;git clone https://github.com/theova/base16-qutebrowser.git
+: 1641165584:0;cd base16-qutebrowser
+: 1641165595:0;cd themes
+: 1641165654:0;cp base16-gruvbox-dark-medium.config.py ../../../
+: 1641165660:0;cd ../../../
+: 1641165669:0;rm -rf config.py
+: 1641165687:0;rm -rf base16-qutebrowser
+: 1641165704:0;mv base16-gruvbox-dark-medium.config.py config.py
+: 1641166159:0;vim autoconfig.yml
+: 1641212746:0;vim config.py
+: 1641213978:0;pac -S picard
+: 1641214147:0;tar -xvf chromaprint-fpcalc-1.5.1-linux-x86_64.tar.gz
+: 1641214152:0;cd chromaprint-fpcalc-1.5.1-linux-x86_64
+: 1641214201:0;mkdir picard
+: 1641214223:0;mv Downloads/chromaprint-fpcalc-1.5.1-linux-x86_64 .config/picard
+: 1641214230:0;rm chromaprint-fpcalc-1.5.1-linux-x86_64.tar.gz
+: 1641214512:0;cd ./
+: 1641214560:0;cd picard
+: 1641214622:0;rm Picard-Last.fm.ng-Plugin-master.zip
+: 1641214625:0;cd Music
+: 1641214734:0;mkdir Splinter
+: 1641214746:0;mv 01.\ the\ offspring\ -\ \(cant\ get\ my\)\ head\ around\ you.mp3 Splinter
+: 1641215086:0;pac -S lxappearance
+: 1641215107:0;lxappereance
+: 1641215563:0;pac -S adwaita-icon-the
+: 1641215569:0;pac -S adwaita-icon-theme
+: 1641215836:0;cd MusicBrainz
+: 1641215840:0;cd Picard
+: 1641215846:0;cd plugins
+: 1641243365:0;pac -S redshift
+: 1641243550:0;redshift -l 50:14.5
+: 1641243594:0;redshift -l 50:14.5 -P -O 3000
+: 1641243597:0;redshift -l 50:14.5 -P -O 5000
+: 1641243601:0;redshift -l 50:14.5 -P -O 4000
+: 1641243793:0;cd /etc/geoclue
+: 1641243797:0;vim geoclue.conf
+: 1641243959:0;pac -S jq
+: 1641243965:0;redshift -l $(curl -s "https://location.services.mozilla.com/v1/geolocate?key=geoclue" | jq -r '"\(.location.lat):\(.location.lng)"')
+: 1641244000:0;pac -Rscn jq
+: 1641244316:0;pac -S python-adblock
+: 1641244823:0;pac -S zathura zathura-pdf-poppler
+: 1641244914:0;paru apostrophe
+: 1641245226:0;vim blocks.h
+: 1641246434:0;cd .config/suckless/dwmblocks
+: 1641246446:0;vim battery
+: 1641285019:0;paru redshift
+: 1641286986:0;cd /etc/
+: 1641287086:0;sudo vim umount
+: 1641287171:0;vim umount
+: 1641287192:0;cat umount
+: 1641287229:0;chmod +x umount
+: 1641287232:0;sudo chmod +x umount
+: 1641287300:0;ln -sf umount /etc/runlevels/shutdown/unmount
+: 1641287303:0;sudo ln -sf umount /etc/runlevels/shutdown/unmount
+: 1641287358:0;readlink killprocs
+: 1641287364:0;readlink unmount
+: 1641287429:0;ln -sf /etc/init.d/umount /etc/runlevels/shutdown/unmount
+: 1641287432:0;sudo ln -sf /etc/init.d/umount /etc/runlevels/shutdown/unmount
+: 1641287440:0;readlink mount-ro
+: 1641287697:0;sudo rm -rf unmount
+: 1641287719:0;rm -rf unmount
+: 1641287800:0;umount -r /media/tomas/share/Pulec_pracovni
+: 1641288031:0;cd /etc/runlevels/shutdown
+: 1641288076:0;cat mount-ro
+: 1641293731:0;umount /media/tomas/share/Pulec_pracovni
+: 1641293736:0;mount /media/tomas/share/Pulec_pracovni
+: 1641294009:0;cd /var/lo
+: 1641294047:0;tail -f dmesg
+: 1641294055:0;cd old
+: 1641294082:0;sudo tail -f dmesg
+: 1641294122:0;cd runlevels/shutdown
+: 1641294141:0;cd init.d
+: 1641294180:0;cd runlevels
+: 1641294187:0;cd boot
+: 1641294190:0;cd../
+: 1641294204:0;mc
+: 1641294262:0;ls -l
+: 1641294273:0;less killprocs
+: 1641294299:0;less mount-ro
+: 1641294404:0;halt
+: 1641294407:0;sudo halt
+: 1641294615:0;cd /etc/runlevels
+: 1641294620:0;cd shutdown
+: 1641294697:0;vim savecache
+: 1641295444:0;vim mount-ro
+: 1641295551:0;cd ./lib64/openrc/sh/rc-mount.sh 
+: 1641295554:0;cd ./lib64/openrc/sh/
+: 1641295569:0;vim rc-mount.sh
+: 1641295778:0;vim fstab
+: 1641296622:0;paru autofs
+: 1641296707:0;gpg --recv-keys CD0A6E3CBB6768800B0736A8E7677380F54FD8A9
+: 1641296846:0;git clone https://aur.archlinux.org/autofs.git
+: 1641296848:0;cd autofs
+: 1641296852:0;makepkg -si
+: 1641297002:0;vim killprocs
+: 1641297781:0;redshift -t NIGHT
+: 1641297794:0;redshift -t NIGHT -O 3000
+: 1641297903:0;https://aur.archlinux.org/autofs.git
+: 1641297905:0;redshift -l $(curl -s "https://location.services.mozilla.com/v1/geolocate?key=geoclue" |\
+    awk 'OFS=":" {print $3,$5}' | tr -d ',}') -P -t 6500:3500
+: 1641297916:0;redshift -l $(curl -s "https://location.services.mozilla.com/v1/geolocate?key=geoclue" |\
+    awk 'OFS=":" {print $3,$5}' | tr -d ',}') -P -t 6000:3500
+: 1641298381:0;redshift -l $(curl -s "https://location.services.mozilla.com/v1/geolocate?key=geoclue" | awk 'OFS=":" {print $3,$5}' | tr -d ',}')
+: 1641298423:0;redshift -l $(curl -s "https://location.services.mozilla.com/v1/geolocate?key=geoclue" | awk 'OFS=":" {print $3,$5}' | tr -d ',}') -t 6000:3500
+: 1641298440:0;redshift -l $(curl -s "https://location.services.mozilla.com/v1/geolocate?key=geoclue" | awk 'OFS=":" {print $3,$5}' | tr -d ',}') -t 4000:3500
+: 1641298640:0;sudo pacman -S redshift
+: 1641298759:0;redshift -h
+: 1641298918:0;redshift -l 50:14.4 -P -O 4000
+: 1641299053:0;pac -Rscn redshift
+: 1641299064:0;paru redshift-minimal
+: 1641299075:0;redshift -l 50:14.4 -P -t 6000:3500
+: 1641300774:0;rc-update remove chronyd default
+: 1641300782:0;rc-update -h
+: 1641300794:0;sudo rc-update del chronyd default
+: 1641300800:0;sudo rc-update del chrony default
+: 1641300814:0;pac -Rscn chrony chrony-openrc
+: 1641300879:0;pac -S redshift-op
+: 1641301089:0;l
+: 1641301395:0;cd X11
+: 1641301437:0;cd .config/dwm/a
+: 1641301446:0;chmod +x autostart.sh
+: 1641301486:0;./autostart.sh
+: 1641301525:0;vim config.def.h
+: 1641302023:0;cd .config/suckless
+: 1641302216:0;patch -p1 < patches/dwm-autostart-20210120-cb3f58a.diff
+: 1641302259:0;vim dwm.c.rej
+: 1641302322:0;rm -rf dwm.c.orig dwm.c.rej
+: 1641302335:0;rm -rf dwm-autostart-20210120-cb3f58a.diff
+: 1641302377:0;patch -p1 < patches/dwm-autostart-20161205-bb3bd6f.diff
+: 1641302381:0;vim dwm.c
+: 1641302795:0;pac -S cups cups-openrc
+: 1641302818:0;rc-update add cups default
+: 1641302820:0;rc-update add cupsd default
+: 1641302823:0;sudo rc-update add cupsd default
+: 1641303101:0;rc-update del dhcpcd default
+: 1641303108:0;sudo rc-update del dhcp default
+: 1641303123:0;sudo rc-update del dhcpcd default
+: 1641303153:0;pac -Rscn dhcpcd
+: 1641303950:0;rc-update del net.eth0
+: 1641303954:0;sudo rc-update del net.eth0
+: 1641303993:0;pac -S ghostscript
+: 1641304024:0;pac -S system-config-printer
+: 1641304089:0;dhcpcd
+: 1641304697:0;ln -sf /etc/init.d/net.lo /etc/init.d/net.wlan0
+: 1641304701:0;sudo ln -sf /etc/init.d/net.lo /etc/init.d/net.wlan0
+: 1641304727:0;sudo rc-update add net.wlan0 default
+: 1641304744:0;sudo rc-service net.wla0 start
+: 1641304748:0;sudo rc-service net.wlan0 start
+: 1641304812:0;cd /etc/init.d
+: 1641304822:0;vim net.lo
+: 1641304853:0;rm -rf net.wlan0
+: 1641304863:0;sudo rm -rf net.wlan0 net.eth0
+: 1641304901:0;rc-update del net.wlan0
+: 1641304905:0;sudo rc-update del net.wlan0
+: 1641304911:0;rc-service
+: 1641308025:0;pac -S chrony chrony-openrc
+: 1641308041:0;rc-update add chronyd default
+: 1641308046:0;sudo rc-update add chrony default
+: 1641308311:0;sudo rc-service cups start
+: 1641308319:0;sudo rc-service cupsd stop
+: 1641308323:0;sudo rc-service cupsd start
+: 1641308328:0;sudo rc-service cupsd restart
+: 1641309451:0;rc-update add dhcpcd default
+: 1641309462:0;pac -S dhcpcd
+: 1641309470:0;pac -S dhcpcd-openrc
+: 1641309479:0;sudo rc-update add dhcpcd default
+: 1641309535:0;sudo rc-service dhcpcd start
+: 1641309618:0;rc-service chrony strart
+: 1641309623:0;rc-service chrony start
+: 1641309626:0;sudo rc-service chrony start
+: 1641309746:0;sudo reboot
+: 1641310066:0;pac -S nss-mdns
+: 1641310081:0;vim nsswitch.conf
+: 1641310140:0;rc-service avahi restart
+: 1641310146:0;rc-service avahi-service restart
+: 1641310169:0;rc-service avahi-daemon restart
+: 1641310186:0;rc-update add avahi-daemon default
+: 1641310188:0;sudo rc-update add avahi-daemon default
+: 1641310201:0;sudo rc-service avahi-daemon start
+: 1641310211:0;rc-update
+: 1641310481:0;useradd -aG cups tomas
+: 1641310490:0;useradd -aG tomas cups
+: 1641310560:0;sudo usermod -aG cups,lp tomas
+: 1641310637:0;sudo usermod -aG uucp tomas
+: 1641310821:0;pin
+: 1641310910:0;sudo usermod -aG avahi
+: 1641310913:0;sudo usermod -aG avahi tomas
+: 1641310991:0;useradd -h
+: 1641311332:0;sudo usermod -G avahi tomas
+: 1641311335:0;grups
+: 1641311356:0;sudo usermod -aG network,dhcpcd tomas
+: 1641311712:0;sudo usermod -aG lp tomas
+: 1641311890:0;sudo vim /etc/group
+: 1641311957:0;vim /etc/group
+: 1641312081:0;sudo usermod -aG video tomas
+: 1641312544:0;cd /etc/dh
+: 1641312666:0;vim resolv.conf
+: 1641312826:0;pac -S texlive-bin
+: 1641312923:0;cd /tmp
+: 1641312929:0;cd tmp
+: 1641312935:0;zathura New\ File.pdf
+: 1641313467:0;Frog314-
+: 1641313664:0;cd .config/suckless/dmenu
+: 1641313684:0;cd dmw
+: 1641313687:0;cd dwm
+: 1641313729:0;dmenu -h
+: 1641313754:0;cd ../dmenu
+: 1641313862:0;vim .zprofile
+: 1641313874:0;vim fractional_scaling
+: 1641314715:0;paru cmatrix
+: 1641315220:0;cd .config/dwm
+: 1641321909:0;rm -rf tmp
+: 1641321918:0;mkdir Documents
+: 1641321929:0;cd Documents
+: 1641321933:0;mkdir tomas
+: 1641321965:0;mkdir git
+: 1641321968:0;cd git
+: 1641322078:0;mkdir DCF77_NTP
+: 1641322440:0;cd /etc/udev/rules.d
+: 1641322474:0;sudo vim 99-udisks2.rules
+: 1641323008:0;cd iwd
+: 1641323491:0;sudo vim media.conf
+: 1641323628:0;cat media.conf
+: 1641323654:0;cd /media/tomas/
+: 1641323662:0;mkdir removable
+: 1641323828:0;cd /etc/tmpfiles.d
+: 1641323832:0;rm -rf media.conf
+: 1641323834:0;sudo rm -rf media.conf
+: 1641323978:0;rm -rf ARTIX_202107
+: 1641323981:0;sudo rm -rf ARTIX_202107
+: 1641324009:0;cd ARTIX_202107
+: 1641324038:0;cd /media
+: 1641324065:0;rm -rf removable
+: 1641324071:0;mv share ../
+: 1641324091:0;rm -rf tomas
+: 1641324094:0;sudo rm -rf tomas
+: 1641324101:0;mkdir share
+: 1641324105:0;sudo mkdir share
+: 1641324131:0;chmod 700 share
+: 1641324133:0;sudo chmod 700 share
+: 1641324159:0;sudo chgrp tomas share
+: 1641324165:0;sudo chown tomas share
+: 1641324178:0;mkdir Pulec_pracovni
+: 1641324195:0;cd .config/zsh
+: 1641324354:0;vim .config/zsh/.zaliases
+: 1641324454:0;cd Documents/tomas/git/DCF77_NTP
+: 1641324465:0;git init
+: 1641324529:0;git branch -M main
+: 1641324607:0;git commit -m "Programm for antenna design."
+: 1641324703:0;git remote add origin https://github.com/piroot01/DFC77_NTP
+: 1641324900:0;rm -rf __pycache__
+: 1641325014:0;git add.
+: 1641325040:0;git commit -m "removed __pycache__"
+: 1641325320:0;git rebase
+: 1641325325:0;git rebase -i 
+: 1641325337:0;git rebase -i HEAD~
+: 1641325446:0;git rebase -i HEAD~3
+: 1641325448:0;git rebase -i HEAD~2
+: 1641325450:0;git rebase -i HEAD~1
+: 1641325563:0;git commit --amend
+: 1641325934:0;git rebase -i HEAD~69
+: 1641326105:0;git rebase -i HEAD~0
+: 1641326424:0;git push -u --force origin main
+: 1641326780:0;git rebase -i --root
+: 1641326831:0;git push --force origin main
+: 1641326936:0;mkdir programm_outputs
+: 1641326948:0;mv Inductance_to_number_of_threads.pdf programm_outputs
+: 1641326955:0;mv Quality_to_number_of_turns.pdf programm_outputs
+: 1641326975:0;mv Res_resistance_to_number_of_threads.pdf programm_outputs
+: 1641327201:0;rm -rf table_H7.txt table_N3.txt table_default.txt
+: 1641327208:0;mv table.txt programm_outputs
+: 1641327235:0;rmdir codes
+: 1641327247:0;git commit -m "programm outputs"
+: 1641327291:0;mv relative_effective_permeability_V2.py ../../../git
+: 1641327324:0;git c -m "relative permeability"
+: 1641327367:0;vim relative_effective_permeability_V2.py
+: 1641327376:0;cd antenna_design
+: 1641327382:0;vim relative_effective_permeability.py
+: 1641327413:0;vim antenna_calculator.py
+: 1641327522:0;git commit -m "relative_effective_permeability: better approximation"
+: 1641327562:0;mkdir codes
+: 1641327572:0;mv antenna_design codes
+: 1641327593:0;mkdir hardware
+: 1641327599:0;mkdir software
+: 1641327607:0;mv antenna_design hardware
+: 1641327657:0;git commit -m "code files organisation"
+: 1641327747:0;vim /etc/fstab
+: 1641327865:0;cd ANTENNA
+: 1641327879:0;rm -rf ANTENNA_SIGNAL_STATUS_V2.1.X
+: 1641327882:0;rm -rf ANTENNA_SIGNAL_STATUS_V2.X
+: 1641327895:0;rm -rf ANTENNA_SIGNAL_STATUS_V3.1.X
+: 1641327901:0;rm -rf ANTENNA_SIGNAL_STATUS_V3.X
+: 1641327907:0;cd ANTENNA_SIGNAL_STATUS_V3.2.X
+: 1641327917:0;rm -rf ANTENNA_SIGNAL_STATUS_V3.2.mc3
+: 1641327934:0;rm -rf build dist
+: 1641327940:0;vim Makefile
+: 1641327950:0;rm -rf Makefile
+: 1641327954:0;vim app.c
+: 1641327980:0;rm -rf nbproject
+: 1641327985:0;cd mcc_generated_files
+: 1641328014:0;mv ANTENNA_SIGNAL_STATUS_V3.2.X antenna_signal_status
+: 1641328020:0;mv antenna_signal_status ../
+: 1641328028:0;rm -rf ANTENNA
+: 1641328048:0;mv antenna_signal_status codes/software
+: 1641328105:0;mv antenna_signal_status ../../../
+: 1641328116:0;cd codes
+: 1641328142:0;mv antenna_signal_status/main.c DCF77_NTP/codes/software
+: 1641328162:0;mkdir antenna_signal_status
+: 1641328170:0;cd software
+: 1641328180:0;mv main.c antenna_signal_status
+: 1641328215:0;git c -m "antenna_signal_status: initial upload"
+: 1641328246:0;mv antenna_signal_status/app.c DCF77_NTP/codes/software/antenna_signal_status
+: 1641328306:0;mv antenna_signal_status/app.h DCF77_NTP/codes/software/antenna_signal_status
+: 1641328344:0;git c -m "antenna_signal_status: app.h"
+: 1641328353:0;mv antenna_signal_status/mcc_generated_files DCF77_NTP/codes/software/antenna_signal_status
+: 1641328372:0;git c -m "antenna_signal_status: mcc_generated_files"
+: 1641328384:0;cd antenna_signal_status
+: 1641328388:0;cd debug
+: 1641328391:0;cd default
+: 1641328403:0;rm -rf antenna_signal_status
+: 1641328436:0;:q
+: 1641329180:0;rm -rf 3D_files
+: 1641329205:0;mv DCF77_git antenna_case
+: 1641329209:0;mkdir 3D_files
+: 1641329221:0;mv antenna_case 3D_files
+: 1641329225:0;cd 3D_files
+: 1641329228:0;cd antenna_case
+: 1641329232:0;cd STEP
+: 1641329238:0;../
+: 1641329276:0;git c -m "3D_files: antenna case"
+: 1641374225:0;paru polarnight
+: 1641374335:0;mkdir cursors
+: 1641374340:0;git clone https://github.com/yeyushengfan258/Polarnight-Cursors.git
+: 1641374359:0;rm -rf cursors
+: 1641375988:0;mv Polarnight-Cursors ../.local
+: 1641376005:0;mv Polarnight-Cursors share
+: 1641376039:0;cd /usr/local/share/
+: 1641376049:0;cd share
+: 1641376071:0;mkdir icons
+: 1641376076:0;mv Polarnight-Cursors icons
+: 1641376081:0;cd Polarnight-Cursors
+: 1641376109:0;sudo ./install.sh
+: 1641376121:0;./install.sh
+: 1641376397:0;vim Xresources
+: 1641376485:0;pidof -h
+: 1641376505:0;pidof -s redshift > /dev/null
+: 1641376657:0;cd share/icons
+: 1641376671:0;cd Polarnight-cursors
+: 1641376685:0;rm -rf Polarnight-Cursors
+: 1641376693:0;cd /usr/share
+: 1641376696:0;cd icons
+: 1641376703:0;rm -rf Polarnight-cursors
+: 1641376705:0;sudo rm -rf Polarnight-cursors
+: 1641376724:0;paru captain
+: 1641376848:0;paru capitaine
+: 1641376855:0;lxappearance
+: 1641376897:0;umount_share
+: 1641376957:0;cd .config/dwm/
+: 1641376962:0;vim autostart.sh
+: 1641377017:0;xbacklight -set 40
+: 1641377029:0;xbacklight -set 50
+: 1641377058:0;cd ../suckless/dwm
+: 1641377080:0;cd patches
+: 1641377228:0;vim st.c
+: 1641377342:0;cd .config/suckless/st
+: 1641377749:0;mkdir .PrusaSlicer
+: 1641377757:0;git clone https://github.com/prusa3d/PrusaSlicer.git
+: 1641377816:0;make 
+: 1641377820:0;cd cmake
+: 1641377877:0;rm -rf PrusaSlicer
+: 1641377911:0;;s
+: 1641377931:0;chmod +x PrusaSlicer-2.4.0+linux-x64-202112211614.AppImage
+: 1641377974:0;pac -S libfuse
+: 1641377982:0;paru libfuse
+: 1641377999:0;pac -S fuse2
+: 1641378022:0;paru libglu
+: 1641378061:0;sudo pac -S mesa
+: 1641378110:0;pacman -Qo /usr/lib/libGLU.so.1
+: 1641378219:0;cd .PrusaSlicer
+: 1641378227:0;pac -S mesa
+: 1641378255:0;pac -S glu
+: 1641378318:0;mv .PrusaSlicer/PrusaSlicer-2.4.0+linux-x64-202112211614.AppImage .config
+: 1641378323:0;rm -rf .PrusaSlicer
+: 1641378348:0;mv PrusaSlicer-2.4.0+linux-x64-202112211614.AppImage PrusaSlicer
+: 1641378350:0;cd PrusaSlicer
+: 1641378352:0;./PrusaSlicer-2.4.0+linux-x64-202112211614.AppImage
+: 1641378535:0;vim PrusaSlicer
+: 1641378625:0;chmod +x PrusaSlicer
+: 1641378629:0;./PrusaSlicer
+: 1641378673:0;mv PrusaSlicer prusa_slicer
+: 1641412215:0;cmatrix
+: 1641414037:0;cat /proc/acpi/button/lid/LID/state
+: 1641414858:0;cd /etc
+: 1641414882:0;cd sysctl.d
+: 1641414984:0;cat /proc/acpi/button/lid/LID/state outputs
+: 1641415004:0;cat /proc/acpi/wakeup
+: 1641417481:0;loginctl ``
+: 1641417659:0;umount -h
+: 1641417685:0;cd .config/zsh/
+: 1641417749:0;cd .local
+: 1641417754:0;cd bin
+: 1641417901:0;rm -rf suslock
+: 1641418260:0;touch mount_reboot
+: 1641418339:0;chmod +x mount_reboot
+: 1641418404:0;./mount_reboot
+: 1641418463:0;vim mount_reboot
+: 1641418749:0;mv mount_reboot shutdown
+: 1641418753:0;./shutdown
+: 1641418768:0;./shutdown --reboot
+: 1641418773:0;./shutdown reboot
+: 1641418784:0;./shutdown poweroff
+: 1641418794:0;vim shutdown
+: 1641418859:0;rm -rf shutdown
+: 1641418951:0;loginctl poweroff
+: 1641419020:0;chmod +x umount_poweroff
+: 1641419106:0;vim dmn_
+: 1641419217:0;vim umount_reboot
+: 1641419311:0;chmod +x suslock
+: 1641419316:0;chmod +x umount_reboot
+: 1641419333:0;vim suslock
+: 1641419667:0;pac -S htop
+: 1641502568:0;lspci
+: 1641502817:0;pac -S usbutils
+: 1641502846:0;pipewire -h
+: 1641503110:0;ps ax
+: 1641503127:0;kill -9 18101
+: 1641503292:0;pac -Rscn pipewire-pulse
+: 1641503304:0;pac -S pipewire-openrc
+: 1641503309:0;pac -S pipewire-alsa
+: 1641503514:0;paru -Rscn moc-pulse
+: 1641503591:0;ps ax | grep pipewire
+: 1641503757:0;pac -Rscn pamixer-git 
+: 1641503913:0;pac -Rscn alsa-utils
+: 1641503928:0;pac -Rscn pipewire-alsa
+: 1641504048:0;pac -S pipewire-jack
+: 1641504232:0;alsamixer -D jack sset Master 5%+
+: 1641504299:0;amixer -D jack sset Master 5%+
+: 1641504307:0;amixer -g sset Master 5%+
+: 1641504345:0;amixer -q sset Master 5%+
+: 1641504368:0;amixer -q sset Master 5%+i
+: 1641504617:0;pw-jack jack_connect
+: 1641504648:0;pw-jack jack_connect headphones
+: 1641504707:0;pac -Rscn alsa-utils pipewire-jack 
+: 1641504757:0;pac -S pamixer
+: 1641504885:0;pamixer --set-volume 10
+: 1641504889:0;pamixer
+: 1641504893:0;pamixer -v
+: 1641504909:0;pamixer --list-inks
+: 1641505157:0;make
+: 1641505183:0;kill -9 8049
+: 1641505187:0;kill -9 8050
+: 1641505414:0;pactl get-sink-volume
+: 1641505509:0;pactl get-defaul-sink
+: 1641505524:0;pactl get-default-sinl
+: 1641505561:0;pactl --info
+: 1641505563:0;pactl -i
+: 1641505653:0;pactl play-sample 0
+: 1641505666:0;pactl play-sample 1
+: 1641505674:0;pactl list
+: 1641505763:0;pactl set-sink-volume 0 10%
+: 1641505782:0;pactl set-sink-volume 0 1%
+: 1641505793:0;pactl get-default-source
+: 1641506896:0;ps ax | grep mocp
+: 1641506907:0;kill -9 16503
+: 1641506913:0;kill -9 10503
+: 1641507206:0;ps ax | grep redshift
+: 1641546135:0;
+: 1641546339:0;kill -9 3322
+: 1641546372:0;kill -9 3412
+: 1641546375:0;sudo kill -9 3412
+: 1641546669:0;sudo usermod -aG audio tomas
+: 1641546817:0;pac -Rscn pipewire
+: 1641546827:0;la
+: 1641547027:0;pac -S amixer
+: 1641547098:0;ps ax | grep jack
+: 1641547163:0;pipewire
+: 1641547209:0;wireplumber
+: 1641547260:0;cd /
+: 1641547327:0;pac -Rscn pipewire-jack
+: 1641547488:0;pac -S moc-pulse
+: 1641547536:0;pac -Rscn pipewire pipewire-pulse
+: 1641547542:0;pac -S pulse
+: 1641547665:0;paru -S moc-pulse
+: 1641547768:0;ps ax | grep pw
+: 1641547784:0;kill -9 27175
+: 1641547800:0;groups
+: 1641547996:0;sudo mocp
+: 1641548161:0;cd /usr/share/alsa
+: 1641548171:0;cd cards
+: 1641548200:0;vim HDA-Intel.conf
+: 1641548477:0;kill -9 2909
+: 1641548480:0;kill -9 2910
+: 1641548497:0;pac -Rscn pulseaudio
+: 1641548668:0;pac -S pipewire wireplumber pipewire-jack
+: 1641548888:0;cd /usr/share/pipewire/
+: 1641548903:0;pac -S pipewire-pulse
+: 1641548923:0;rm -rf pipewire-pulse.conf
+: 1641548926:0;sudo rm -rf pipewire-pulse.conf
+: 1641549066:0;pac -S alsa-utils
+: 1641549099:0;pac -Rscn pamixer
+: 1641549133:0;pac -Rscn pavucontrol
+: 1641549144:0;amixer sset Master 5%+
+: 1641549340:0;amixer sset Master mute
+: 1641549352:0;amixer sset Master unmute
+: 1641549361:0;amixer sset Master mute --toggle
+: 1641549371:0;amixer --help
+: 1641549404:0;amixer sset Master toggle
+: 1641549568:0;amixer sset Master 5%-
+: 1641549577:0;amixer -D sset Master 5%-
+: 1641549586:0;amixer -q sset Master 5%-
+: 1641549679:0;cd .config/suckless/dwm
+: 1641549730:0;amixer -R
+: 1641549811:0;awk -F"[][]" '/dB/ { print $2 }' <(amixer sget Master)
+: 1641549853:0;amixer get Master
+: 1641549918:0;amixer get Master | grep Playback
+: 1641549929:0;amixer get Master | grep Mono
+: 1641549951:0;amixer get Master | grep Mono:
+: 1641550086:0;amixer get Master | grep Mono: | awk {'print $4'}
+: 1641550095:0;amixer get Master | grep Mono: | awk {'print $4'} | tr -d []
+: 1641550099:0;amixer get Master | grep Mono: | awk {'print $4'} | tr -d '[]'
+: 1641550361:0;amixer get Master | grep Mono: | awk {'print $6'} | tr -d '[]'
+: 1641550495:0;pactl get-sink-volume 0
+: 1641550508:0;pactl get-default-sink
+: 1641550655:0;pac -S QjackCtl 
+: 1641550959:0;jack_connect
+: 1641550967:0;jack_connect -h
+: 1641551012:0;pw-jack
+: 1641551042:0;jack2
+: 1641551100:0;pac -S jack2-dbus
+: 1641551123:0;jack_control
+: 1641551158:0;pac -S qjackctl
+: 1641551408:0;pac -S jack-mixer
+: 1641551414:0;pac -S jack_mixer
+: 1641551417:0;jack_mixer
+: 1641551433:0;pac -Rscn jack_mixer
+: 1641551460:0;jack_control start
+: 1641551477:0;jack_control dps device hw:HD2
+: 1641551560:0;pac -Rscn qjackctl
+: 1641551567:0;pac -Rscn jack_control
+: 1641551571:0;pac -Rscn jack2-dbus
+: 1641551850:0;pactl
+: 1641551874:0;amixer -h
+: 1641551882:0;amixer -D
+: 1641551891:0;amixer 0
+: 1641551896:0;amixer -D 0
+: 1641551908:0;amixer -v
+: 1641551924:0;amixer controls
+: 1641551986:0;lsusb
+: 1641552017:0;cd /usr/share/alsa/cards
+: 1641552076:0;amixer scontents
+: 1641552109:0;amixer info
+: 1641552153:0;amixer sste
+: 1641552155:0;amixer sset
+: 1641552163:0;amixer sset Master
+: 1641552187:0;amixer cget
+: 1641552200:0;amixer cget "ifi"
+: 1641552206:0;amixer cget ifi
+: 1641552218:0;amixer device default
+: 1641552225:0;amixer -D default
+: 1641552261:0;alsamixer -h
+: 1641552306:0;amixer -c 1 set Master playback 100% unmute
+: 1641552321:0;amixer -c 1
+: 1641552361:0;amixer -c 1 set PCM
+: 1641552373:0;amixer -c 1 set PCM 2db+
+: 1641552405:0;alsamixer
+: 1641552775:0;pac -Rscn pipewire pipewire-pulse pipewire-jack alsa-utils
+: 1641552783:0;pac -Rscn pipewire pipewire-jack alsa-utils
+: 1641552805:0;pac -Rscn mocp
+: 1641552809:0;pac -Rscn moc
+: 1641552875:0;pac -S pipewire pipewire-pulse
+: 1641552904:0;vim /usr/share/pipewire/pipewire.conf
+: 1641553219:0;pac -S pipewire pipewire-pulse wireplumber
+: 1641553240:0;pac -Rscn jack2 
+: 1641553262:0;pac -S qutebrowser
+: 1641553315:0;pac -S openssh
+: 1641553355:0;/usr/share/pipewire
+: 1641553596:0;paru pamixer
+: 1641553875:0;wireplumber &
+: 1641553927:0;cd /usr/share/pipewire
+: 1641553931:0;vim pipewire.conf
+: 1641553972:0;pamixer --list-sinks
+: 1641553997:0;pac -S moc
+: 1641554085:0;pamixer -t
+: 1641554092:0;pamixer -h
+: 1641554157:0;pactl info
+: 1641554163:0;pactl -h
+: 1641554166:0;pactl stat
+: 1641554179:0;pac -S pavucontrol
+: 1641554226:0;pac -S pulseaudio
+: 1641554243:0;paru moc-pulse
+: 1641554271:0;cd .config/X11
+: 1641554273:0;vim xinitrc
+: 1641554339:0;vim vol
+: 1641554352:0;cd .config/suckless/dwmblocks/blocks
+: 1641554354:0;vim volume
+: 1641554375:0;pamixer --get-volume-human
+: 1641554459:0;kill -9 4271
+: 1641554472:0;kill -9 4272
+: 1641554486:0;ps ax | grep moc
+: 1641555768:0;mocp
+: 1641555778:0;pac -S cmus
+: 1641555797:0;pac -S mpris
+: 1641556666:0;pac -Rscn pipewire pipewire-pulse wireplumber moc-pulse
+: 1641556679:0;pac -Rscn moc-pulse
+: 1641556698:0;rm -rf .moc
+: 1641557019:0;cd .config/cmus
+: 1641557032:0;mv .cmus/gruvbox-dark.theme ../
+: 1641557036:0;rm -rf .cmus
+: 1641557053:0;mv gruvbox-dark.theme cmus
+: 1641559079:0;rm -rf jack pipewire jack_mixer jack
+: 1641559088:0;cd suckless
+: 1641559092:0;cd dwmblocks
+: 1641559094:0;cd blocks
+: 1641559101:0;vim player
+: 1641559296:0;vim command-history
+: 1641559310:0;cd cmus
+: 1641559811:0;cmus-remote
+: 1641559815:0;cmus-remote -Q
+: 1641559831:0;ps ax | grep cmus
+: 1641559839:0;kill -9 cmus
+: 1641559863:0;pidof -s cmus > /dev/null
+: 1641559875:0;kill -9 21867
+: 1641559878:0;cmus
+: 1641559910:0;cmus-remote -u
+: 1641560201:0;iwd
+: 1641560346:0;vim co
+: 1641560553:0;cd .config/suckless/dwm/
+: 1641560633:0;sudo make clean install
+: 1641560737:0;pac -S telegram-desktop
+: 1641571012:0;pac -S texlive-core
+: 1641571072:0;cd Documents/tomas/git/
+: 1641571087:0;mkdir documentation
+: 1641571176:0;touch main.tex
+: 1641571189:0;mount_share
+: 1641571695:0;pac -S tectonic
+: 1641571705:0;paru tectonic
+: 1641572442:0;chmod +x main.tex
+: 1641574163:0;latex main.tex
+: 1641574830:0;pac -S unzip
+: 1641574863:0;rm -rf main.log
+: 1641574977:0;vim example.bib
+: 1641574997:0;cd Figures
+: 1641575005:0;zathura Electron.pdf
+: 1641575650:0;vim index.tex
+: 1641575666:0;rm -rf index.tex
+: 1641575707:0;unzip LaTeXTemplates_masters-doctoral-thesis_v2.5.zip
+: 1641575716:0;rm -rf LaTeXTemplates_masters-doctoral-thesis_v2.5.zip
+: 1641575795:0;tectonic index.tex
+: 1641575844:0;vim MastersDoctoralThesis.cls
+: 1641575973:0;rm -rf documentation/*
+: 1641576036:0;mkdir images
+: 1641576070:0;mv qwe_download.png title_page_pic.png
+: 1641576074:0;cd ../../
+: 1641576077:0;git .
+: 1641576085:0;git commit -m "documentation file"
+: 1641576224:0;mkdir chapters
+: 1641576294:0;touch chapter01.tex
+: 1641576434:0;vim titlepage.txt
+: 1641576711:0;cd images
+: 1641576737:0;mv title_page_pic.png university.png
+: 1641577124:0;vim introduction.tex
+: 1641581295:0;rm -rf test.pdf test.tex
+: 1641581894:0;tectonic -h
+: 1641582216:0;mv chapter01.tex chapter1.tex
+: 1641582371:0;vim chapter01.tex
+: 1641582375:0;vim chapter1.tex
+: 1641583663:0;tectonic test.tex
+: 1641583665:0;zathura test.pdf
+: 1641583679:0;vim test.tex
+: 1641583830:0;cd chapters
+: 1641583842:0;mv chapter1.tex chapter01.tex
+: 1641584168:0;mv titlepage.txt titlepage.tex
+: 1641592179:0;zathura main.pdf
+: 1641592213:0;zathura main.pdf &
+: 1641658089:0;cd DCF77_NTP
+: 1641658204:0;rm -rt test.pdf test.tex
+: 1641658208:0;rm -r test.pdf test.tex
+: 1641658585:0;git commit -m "removed trash files"
+: 1641658588:0;cd Do
+: 1641659471:0;rm -rf *
+: 1641660092:0;git commit -m "title page"
+: 1641665029:0;cd Downloads
+: 1641665035:0;zathura uprava-zaverecne-prace-kurz-informatika.pdf
+: 1641665224:0;mkdir zathura
+: 1641665231:0;mv zathurarc zathura
+: 1641665245:0;vim rncbc.org
+: 1641665260:0;rm -rf rncbc.org
+: 1641665272:0;cd zathura
+: 1641665275:0;vim zathurarc
+: 1641665569:0;pac -S xclip
+: 1641665610:0;e
+: 1641666008:0;vim titlepage.tex
+: 1641666056:0;tectonic main.tex
+: 1641667638:0;vim affirmation.tex
+: 1641667709:0;:w
+: 1641667737:0;git commit -m "documentation: affirmation"
+: 1641724959:0;vim assignment.tex
+: 1641725179:0;vim main.tex
+: 1641725369:0;rm -rf assignment.tex
+: 1641725584:0;mkdir pcb_files
+: 1641725613:0;mkdir antenna
+: 1641726315:0;cd Documents/tomas/git/DCF77_NTP/documentation
+: 1641726325:0;ks
+: 1641726332:0;zathura Schematic_V2.PDF
+: 1641726597:0;git commit -m "pcb_files: antenna"
+: 1641726701:0;pac -S kicad
+: 1641727234:0;mv Schematic_V2.PDF Schematic.PDF
+: 1641727243:0;mv Gerber_files_V2.zip Gerber_files.zip
+: 1641727247:0;..
+: 1641727261:0;git commit -m "pcb_files: gerber"
+: 1641727293:0;share
+: 1641727358:0;cd pcb_files
+: 1641727362:0;cd main_unit
+: 1641727396:0;cd Documents/tomas/git/DCF77_NTP/pcb_files
+: 1641727400:0;cd antenna
+: 1641727422:0;mv gerber.zip Gerber_files.zip
+: 1641727436:0;mv Job1.PDF Schematic.PDF
+: 1641727467:0;git commit -m "pcb_files: main_unit"
+: 1641728386:0;git add .
+: 1641728412:0;git commit -m "documentation: abstract"
+: 1641728416:0;git push -u origin main
+: 1641728658:0;cd documentation
+: 1641728665:0;vim abstract.tex
+: 1641728687:0;tectonic -p main.tex
+: 1641728889:0;pac -S libreoffice
+: 1641749006:0;showjournal
+: 1641749015:0;journalctl
+: 1641749023:0;cd /var/log
+: 1641749039:0;tail -f lastlog
+: 1641749056:0;tail -f rc.log
+: 1641749280:0;cd /home
+: 1641749283:0;cd tomas
+: 1641749292:0;cd .c
+: 1641749330:0;cd .cache
+: 1641749363:0;rm -rf event-sound-cache.tdb.okoun.x86_64-pc-linux-gnu mesa_shader_cache
+: 1641749368:0;vim dwm.log
+: 1641749413:0;sudo vim main.conf
+: 1641749452:0;cat main.conf
+: 1641749462:0;sudo rc-service iwd restart
+: 1641749472:0;su
+: 1641749477:0;rc-service iwd restart
+: 1641836055:0;iwlctl
+: 1641836058:0;wctl
+: 1641836151:0;ip a
+: 1641838412:0;pac -S acpi_listen
+: 1641838428:0;paru acpi_listen
+: 1641838567:0;mkdir paru
+: 1641838574:0;cd paru
+: 1641838603:0;vim /etc/paru.conf
+: 1641838619:0;sudo vim /etc/paru.conf
+: 1641838660:0;vim 
+: 1641838673:0;cd .config
+: 1641838677:0;cd suckless/dwm
+: 1641838681:0;vim config.h
+: 1641838713:0;cd ../
+: 1641838731:0;cd nvim
+: 1641838734:0;vim init.vim
+: 1641838984:0;vim .zfunctions
+: 1641839053:0;ll --colors=auto
+: 1641839073:0;paru acpi --color=auto
+: 1641839087:0;vim .zshrc
+: 1641842471:0;ll --color=auto
+: 1641842504:0;cd ..
+: 1641842512:0;ls --color=auto
+: 1641842733:0;cd zsh
+: 1641842738:0;vim .zaliases
+: 1641842836:0;paru acpi
+: 1641842852:0;ll
+: 1641843245:0;rc-update add acpi default
+: 1641843248:0;rc-update add acpid default
+: 1641843253:0;sudo rc-update add acpid default
+: 1641843279:0;sudo rc-service acpid start
+: 1641843551:0;sudo acpi_listen
+: 1641843767:0;cd 
+: 1641843772:0;cd .local/bin
+: 1641843780:0;vim dmn_power
+: 1641843819:0;vim umount_poweroff
+: 1641844000:0;cd
+: 1641844016:0;ls
+: 1641844019:0;cd /etc/iwd
+: 1641844022:0;vim main.conf
+: 1641847832:0;htop
+: 1641850615:0;2
+: 1641850627:0;vim /etc/iwd/main.conf
+: 1641885315:0;pac -Syyu --color=auto
+: 1641885327:0;pac -S calibre
+: 1641916593:0;pac -Syyu
+: 1641927660:0;ping 8.8.8.8
+: 1641927667:0;iwctl
+: 1641933310:0;acpi_listen
+: 1642005226:0;exit
+: 1642007638:0;share
+: 1642095548:0;q
+: 1642095558:0;rem
+: 1642108131:0;cd
+: 1642108135:0;cd Downloads
+: 1642108136:0;ls
+: 1642108251:0;sudo dd if=Fedora-Workstation-Live-x86_64-35-1.2.iso of=/dev/sdb bs=4M status=progress
+: 1642109662:0;
+: 1642111884:0;ls
+: 1642111885:0;cd
+: 1642111890:0;cd tmp
+: 1642111896:0;zathura New\ File.pdf
+: 1642175551:0;ls
+: 1642175553:0;cd Downloads
+: 1642175553:0;;s
+: 1642175554:0;ls
+: 1642175580:0;cd ../
+: 1642175581:0;ls
+: 1642175591:0;cd Documents/tomas/git
+: 1642175591:0;ls
+: 1642175597:0;mkdir dotfiles
+: 1642175599:0;cd dotfiles
+: 1642175600:0;ls
+: 1642175672:0;git add .
+: 1642175677:0;git init
+: 1642175681:0;ls
+: 1642175682:0;ll
+: 1642175685:0;git add .
+: 1642175757:0;git commit -m "first commit"
+: 1642175764:0;git branch -M main
+: 1642175770:0;git remote add origin https://github.com/piroot01/another_dotfiles.git
+: 1642175778:0;git push -u origin main
+: 1642175798:0;ls
+: 1642175804:0;mkdir .config
+: 1642175808:0;git add .
+: 1642175812:0;git commit -m "first commit"
+: 1642175826:0;git remote add origin https://github.com/piroot01/another_dotfiles.git
+: 1642175832:0;git branch -M main
+: 1642175835:0;git push -u origin main
+: 1642175866:0;git init
+: 1642175888:0;git add README.md
+: 1642175899:0;touch README.md
+: 1642175902:0;vim README.md
+: 1642175916:0;git add README.md
+: 1642175922:0;git commit -m "first commit"
+: 1642175927:0;git branch -M main
+: 1642175948:0;git remote add origin https://github.com/piroot01/another_dotfiles.git
+: 1642175957:0;git remote add https://github.com/piroot01/another_dotfiles.git
+: 1642175983:0;git remote add master https://github.com/piroot01/another_dotfiles.git
+: 1642175990:0;git push -u origin main
+: 1642176074:0;ls
+: 1642176080:0;ll
+: 1642176103:0;cp .config Documents/tomas/git/dotfiles
+: 1642176108:0;cp -r .config Documents/tomas/git/dotfiles
+: 1642176116:0;cd .icons
+: 1642176116:0;ls
+: 1642176119:0;cd default
+: 1642176119:0;ls
+: 1642176122:0;vim index.theme
+: 1642176132:0;cd
+: 1642176133:0;ls
+: 1642176140:0;ll
+: 1642176152:0;cp .zprofile Documents/tomas/git/dotfiles
+: 1642176168:0;cp -r .local Documents/tomas/git/dotfiles

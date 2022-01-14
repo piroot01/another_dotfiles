@@ -1,0 +1,5 @@
+2022/01/04-12:19:07.558 3015 Reusing MANIFEST /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/04-12:20:33.457 a71 Level-0 table #5: started
+2022/01/04-12:20:33.466 a71 Level-0 table #5: 5174 bytes OK
+2022/01/04-12:20:33.476 a71 Delete type=0 #3
+2022/01/04-12:20:33.476 a71 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
