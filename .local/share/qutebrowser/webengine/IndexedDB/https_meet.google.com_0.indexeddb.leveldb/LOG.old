@@ -1,8 +1,0 @@
-2022/01/05-21:22:17.549 a9e Reusing MANIFEST /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/01/05-21:22:17.550 a9e Recovering log #7
-2022/01/05-21:22:17.550 a9e Reusing old log /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000007.log 
-2022/01/05-21:23:02.503 a9e Level-0 table #11: started
-2022/01/05-21:23:02.503 a9e Level-0 table #11: 0 bytes OK
-2022/01/05-21:23:02.516 a9e Delete type=0 #7
-2022/01/05-21:23:02.516 a9e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2022/01/05-21:23:02.516 a9e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2022/01/14-16:51:12.531 c58 Reusing MANIFEST /home/tomas/.local/share/qutebrowser/webengine/Local Storage/leveldb/MANIFEST-000001
-2022/01/14-16:51:12.538 c58 Recovering log #2956
-2022/01/14-16:51:12.541 c58 Reusing old log /home/tomas/.local/share/qutebrowser/webengine/Local Storage/leveldb/002956.log 
-2022/01/14-16:51:37.267 ab7 Level-0 table #2962: started
-2022/01/14-16:51:37.275 ab7 Level-0 table #2962: 28954 bytes OK
-2022/01/14-16:51:37.285 ab7 Delete type=0 #2956

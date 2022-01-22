@@ -1,5 +1,0 @@
-2022/01/10-20:36:18.103 5a53 Reusing MANIFEST /home/tomas/.local/share/qutebrowser/webengine/IndexedDB/https_news.itsfoss.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/01/10-20:36:31.668 ec7 Level-0 table #5: started
-2022/01/10-20:36:31.674 ec7 Level-0 table #5: 820 bytes OK
-2022/01/10-20:36:31.690 ec7 Delete type=0 #3
-2022/01/10-20:36:31.690 ec7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
